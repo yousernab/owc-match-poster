@@ -22,4 +22,5 @@ At the start of each week:
 
 
 Each match:
-- run "get_mp.py" and follow the instructions in console (input mp id, pick order, bans)
+- Run "get_mp.py" and follow the instructions in console (input mp id, pick order, bans)
+- Markdown for the reddit post is stored in the text/ folder if any manual changes need to be made
