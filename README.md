@@ -13,7 +13,8 @@ At the start of each OWC:
 - After qualifiers, input the seeding into "seed" in "bracket.py"
 - After qualifiers, manually input the group info into "bracket.py" in "group_a" through "group_h" and run that part of the code uncommented to store the groups in groups.pkl, then recomment it.
 - During group stage, set group_stage = True in "bracket.py"
-- After group stage, set group_stage = False and set the "curr_bracket" in "bracket.py" based on the match numbering in the challonge bracket with the top team being "r" and bottom team being "b"
+- After group stage, set group_stage = False
+- After group stage, set the "curr_bracket" in "bracket.py" based on the match numbering in the challonge bracket with the top team being "r" and bottom team being "b". Run that part uncommented to store the bracket in bracket.pkl, then recomment it.
 
 
 At the start of each week:
@@ -22,4 +23,3 @@ At the start of each week:
 
 Each match:
 - run "get_mp.py" and follow the instructions in console (input mp id, pick order, bans)
-- If there are disconnects that change the outcome of a point, you'll have to rerun the code after changing counter == _ in the "flip point" section to the map number - 1, then fix the post text later since it'll break the table of scores for that map
