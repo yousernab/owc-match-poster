@@ -3,7 +3,8 @@
 I removed some file paths and my osu! and reddit api keys, so those need to be replaced for this code to be useable. I marked them with TODO's
 
 A general outline of how I used the code every OWC
-I might miss some things since I'm writing this based on my memory
+
+I might have missed some things since I'm writing this based on my memory
 
 At the start of each OWC:
 - Change any mentions of year to the current year (they're all 2025 right now)
