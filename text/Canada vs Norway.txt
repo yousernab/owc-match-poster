@@ -1,0 +1,159 @@
+## **Canada 5** - 0 Norway
+
+Canada will face the winner of Germany vs Brazil in the Quarterfinals.
+
+Norway will face Türkiye in Losers Round 2.
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119834569) | [Bracket](https://challonge.com/OWC2025) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***Canada*** |#4| ***Norway*** |#13|
+|:-:|:-:|:-:|:-:|
+| [xootynator](https://osu.ppy.sh/users/3717598) | 1.824 | [antonyw](https://osu.ppy.sh/users/12959983) | 1.334 |
+| [yip](https://osu.ppy.sh/users/5177569) | 1.468 | [NINERIK](https://osu.ppy.sh/users/10549880) | 1.287 |
+| [Wanderio](https://osu.ppy.sh/users/16529875) | 1.387 | [Melvr](https://osu.ppy.sh/users/9211924) | 1.213 |
+| [Zylice](https://osu.ppy.sh/users/5033077) | 1.155 | [Pinguinzi](https://osu.ppy.sh/users/9414229) | 1.030 |
+| [steamhappy](https://osu.ppy.sh/users/7802400) | 1.120 | [YokesPai](https://osu.ppy.sh/users/6399568) | 0.997 |
+| [PinkEyeFan2013](https://osu.ppy.sh/users/13609904) | 0.879 | [HUNDUR](https://osu.ppy.sh/users/3145033) | 0.487 |
+| [SparklyFairy200](https://osu.ppy.sh/users/10676573) | 0.805 | [FRODO](https://osu.ppy.sh/users/14398471) | 0.266 |
+| [nujabes](https://osu.ppy.sh/users/12258658) | - | [papercandle](https://osu.ppy.sh/users/12353810) | - |
+***
+**Bans:**
+
+*Canada*
+
+NM2 | [Hideous Divinity - The Deaden Room &#91;Precognition of Blood&#93;](https://osu.ppy.sh/beatmaps/4984190)
+
+*Norway*
+
+NM3 | [Masayoshi Takanaka - Gascon Cocktail &#91;Gascogne Sunset&#93;](https://osu.ppy.sh/beatmaps/5386798)
+
+***
+###Map 1 (picked by Canada)
+***
+
+####NM1 | [DIALOGUE+ - Daibouken o Yoroshiku &#91;Jet to the Future&#93;](https://osu.ppy.sh/beatmaps/5386789)
+
+3:45 — 208 BPM — 7.1★ — 1,611x
+
+| ***Canada*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[yip](https://osu.ppy.sh/users/5177569) | 809,857 | 98.69% | 1,405x | 0 |
+[xootynator](https://osu.ppy.sh/users/3717598) | 664,747 | 99.61% | 972x | 1 |
+[Zylice](https://osu.ppy.sh/users/5033077) | 566,559 | 98.44% | 979x | 4 |
+[Wanderio](https://osu.ppy.sh/users/16529875) | 554,473 | 98.33% | 787x | 2 |
+| ***Norway*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[NINERIK](https://osu.ppy.sh/users/10549880) | 564,090 | 99.03% | 748x | 3 |
+[Melvr](https://osu.ppy.sh/users/9211924) | 539,098 | 99.57% | 632x | 2 |
+[antonyw](https://osu.ppy.sh/users/12959983) | 512,094 | 98.52% | 781x | 4 |
+[Pinguinzi](https://osu.ppy.sh/users/9414229) | 435,278 | 98.79% | 499x | 7 |
+
+**Canada 2,595,636** - 2,050,560 Norway
+
+Canada wins by 545,076
+
+Canada (1) - 0 Norway
+***
+###Map 2 (picked by Norway)
+***
+
+####FM3 | [masarada - Liar Dancer &#91;DANSA&#93;](https://osu.ppy.sh/beatmaps/5290020)
+
+3:26 — 170 BPM — 6.5★ — 1,757x
+
+| ***Canada*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[xootynator](https://osu.ppy.sh/users/3717598) +HDHR | 953,664 | 97.20% | 1,611x | 0 |
+[Wanderio](https://osu.ppy.sh/users/16529875) | 945,949 | 98.62% | 1,745x | 0 |
+[yip](https://osu.ppy.sh/users/5177569) | 782,642 | 99.13% | 1,469x | 1 |
+[steamhappy](https://osu.ppy.sh/users/7802400) +HD | 498,620 | 98.06% | 688x | 7 |
+| ***Norway*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[YokesPai](https://osu.ppy.sh/users/6399568) +HD | 633,022 | 97.48% | 1,186x | 4 |
+[antonyw](https://osu.ppy.sh/users/12959983) | 543,598 | 98.70% | 1,004x | 4 |
+[Melvr](https://osu.ppy.sh/users/9211924) | 464,880 | 93.05% | 1,066x | 53 |
+[NINERIK](https://osu.ppy.sh/users/10549880) +HR | 385,789 | 97.51% | 398x | 6 |
+
+**Canada 3,180,875** - 2,027,289 Norway
+
+Canada wins by 1,153,586
+
+Canada (2) - 0 Norway
+***
+###Map 3 (picked by Canada)
+***
+
+####HD2 | [Minami no Minami - KAFU-chan no Curry Udon Kyousoukyoku &#91;aaaaAAAAAaaa&#93;](https://osu.ppy.sh/beatmaps/4378380)
+
+2:50 — 201 BPM — 6.0★ — 1,066x
+
+| ***Canada*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[xootynator](https://osu.ppy.sh/users/3717598) | 1,006,914 | 99.52% | 1,039x | 1 |
+[steamhappy](https://osu.ppy.sh/users/7802400) | 861,580 | 99.31% | 909x | 2 |
+[Zylice](https://osu.ppy.sh/users/5033077) | 838,266 | 99.18% | 887x | 1 |
+[Wanderio](https://osu.ppy.sh/users/16529875) | 564,225 | 98.94% | 424x | 2 |
+| ***Norway*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[antonyw](https://osu.ppy.sh/users/12959983) | 987,086 | 99.00% | 1,037x | 1 |
+[NINERIK](https://osu.ppy.sh/users/10549880) | 698,752 | 99.18% | 725x | 3 |
+[YokesPai](https://osu.ppy.sh/users/6399568) | 605,408 | 98.11% | 605x | 5 |
+[Melvr](https://osu.ppy.sh/users/9211924) | 533,532 | 97.05% | 585x | 6 |
+
+**Canada 3,270,985** - 2,824,778 Norway
+
+Canada wins by 446,207
+
+Canada (3) - 0 Norway
+***
+###Map 4 (picked by Norway)
+***
+
+####DT2 | [senya - Tokuiten no Kaibutsuteki Kanjou &#91;Satellite&#93;](https://osu.ppy.sh/beatmaps/5386832)
+
+1:53 — 234 BPM — 7.3★ — 1,291x
+
+| ***Canada*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[PinkEyeFan2013](https://osu.ppy.sh/users/13609904) | 1,131,709 | 98.36% | 1,290x | 0 |
+[SparklyFairy200](https://osu.ppy.sh/users/10676573) | 1,035,873 | 95.68% | 1,291x | 0 |
+[Wanderio](https://osu.ppy.sh/users/16529875) | 774,787 | 95.98% | 1,001x | 0 |
+[Zylice](https://osu.ppy.sh/users/5033077) | 696,912 | 97.43% | 678x | 3 |
+| ***Norway*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[NINERIK](https://osu.ppy.sh/users/10549880) | 1,184,374 | 99.50% | 1,290x | 0 |
+[Pinguinzi](https://osu.ppy.sh/users/9414229) | 1,124,695 | 98.13% | 1,291x | 0 |
+[HUNDUR](https://osu.ppy.sh/users/3145033) | 626,053 | 95.81% | 656x | 7 |
+[Melvr](https://osu.ppy.sh/users/9211924) | 288,797 | 91.43% | 306x | 14 |
+
+**Canada 3,639,281** - 3,223,919 Norway
+
+Canada wins by 415,362
+
+Canada (4) - 0 Norway
+***
+###Map 5 (picked by Canada)
+***
+
+####NM5 | [gladde paling - vleermuis &#91;gelukkige aal&#93;](https://osu.ppy.sh/beatmaps/5386813)
+
+1:38 — 180 BPM — 6.9★ — 822x
+
+| ***Canada*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[xootynator](https://osu.ppy.sh/users/3717598) | 712,713 | 91.22% | 770x | 0 |
+[yip](https://osu.ppy.sh/users/5177569) | 496,058 | 94.05% | 512x | 0 |
+[steamhappy](https://osu.ppy.sh/users/7802400) | 417,592 | 93.98% | 430x | 3 |
+[Wanderio](https://osu.ppy.sh/users/16529875) | 371,253 | 95.05% | 284x | 2 |
+| ***Norway*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Melvr](https://osu.ppy.sh/users/9211924) | 724,388 | 93.30% | 745x | 1 |
+[antonyw](https://osu.ppy.sh/users/12959983) | 457,733 | 96.77% | 372x | 2 |
+[YokesPai](https://osu.ppy.sh/users/6399568) | 335,790 | 92.87% | 326x | 3 |
+[FRODO](https://osu.ppy.sh/users/14398471) | 184,647 | 87.60% | 205x | 6 |
+
+**Canada 1,997,616** - 1,702,558 Norway
+
+Canada wins by 295,058
+
+**Canada (5)** - 0 Norway

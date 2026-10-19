@@ -1,0 +1,168 @@
+## **France 5** - 0 Italy
+
+**Group C Standings:**
+
+| **Team** | **W** | **L** | **PD** |
+|:-:|:-:|:-:|:-:|
+| ***France*** (#15) | 1 | 0 | +5 |
+| ***Chile*** (#10) | 0 | 0 | 0 |
+| ***Spain*** (#20) | 0 | 0 | 0 |
+| ***Italy*** (#23) | 0 | 1 | -5 |
+
+
+^(Top 2 advance to Winners Round of 16)  
+^(Bottom 2 advance to Losers Round of 16)
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119712591) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***France*** |#15| ***Italy*** |#23|
+|:-:|:-:|:-:|:-:|
+| [Musty](https://osu.ppy.sh/users/251683) | 1.616 | [Arge](https://osu.ppy.sh/users/11215030) | 1.441 |
+| [Hifkil](https://osu.ppy.sh/users/4301976) | 1.300 | [kiirochii](https://osu.ppy.sh/users/6387149) | 1.335 |
+| [FlasTEH](https://osu.ppy.sh/users/8443945) | 1.273 | [duke](https://osu.ppy.sh/users/21709356) | 1.234 |
+| [JapWhite](https://osu.ppy.sh/users/7068158) | 1.256 | [MeOwz](https://osu.ppy.sh/users/17446380) | 0.997 |
+| [calangi](https://osu.ppy.sh/users/7810180) | 1.245 | [BELLOFIGO](https://osu.ppy.sh/users/18818123) | 0.937 |
+| [Satsukiiii](https://osu.ppy.sh/users/25626082) | 1.180 | [Ryuzaki](https://osu.ppy.sh/users/7165477) | 0.746 |
+| [Geordie Greep](https://osu.ppy.sh/users/17104779) | 0.941 | [-NyX](https://osu.ppy.sh/users/17022896) | - |
+| [fiaee](https://osu.ppy.sh/users/10325072) | 0.472 | [m4rkvc](https://osu.ppy.sh/users/17733888) | - |
+***
+**Bans:**
+
+*France*
+
+NM4 | [Vorso - Heliosphere &#91;Coronal Mass Ejection&#93;](https://osu.ppy.sh/beatmaps/5365985)
+
+*Italy*
+
+HD2 | [I love you orchestra - Coconut Love &#91;Nucifera&#93;](https://osu.ppy.sh/beatmaps/3400091)
+
+***
+###Map 1 (picked by Italy)
+***
+
+####DT3 | [ZANI - Glass &#91;oh&#93;](https://osu.ppy.sh/beatmaps/5364986)
+
+2:07 — 141 BPM — 6.6★ — 963x
+
+| ***France*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Musty](https://osu.ppy.sh/users/251683) | 1,142,225 | 98.51% | 961x | 0 |
+[calangi](https://osu.ppy.sh/users/7810180) | 801,244 | 99.01% | 639x | 0 |
+[Hifkil](https://osu.ppy.sh/users/4301976) | 737,041 | 98.49% | 637x | 1 |
+[Satsukiiii](https://osu.ppy.sh/users/25626082) | 673,864 | 98.82% | 513x | 0 |
+| ***Italy*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[kiirochii](https://osu.ppy.sh/users/6387149) | 771,248 | 99.06% | 615x | 1 |
+[duke](https://osu.ppy.sh/users/21709356) | 770,272 | 98.53% | 650x | 2 |
+[Arge](https://osu.ppy.sh/users/11215030) | 681,254 | 98.05% | 537x | 1 |
+[BELLOFIGO](https://osu.ppy.sh/users/18818123) | 589,724 | 97.63% | 464x | 3 |
+
+**France 3,354,374** - 2,812,498 Italy
+
+France wins by 541,876
+
+France (1) - 0 Italy
+***
+###Map 2 (picked by France)
+***
+
+####DT2 | [Denkishiki Karen Ongaku Shuudan - Elder Things &#91;Insane&#93;](https://osu.ppy.sh/beatmaps/3863677)
+
+2:28 — 255 BPM — 6.8★ — 1,813x
+
+| ***France*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[JapWhite](https://osu.ppy.sh/users/7068158) | 1,172,453 | 99.38% | 1,811x | 0 |
+[Geordie Greep](https://osu.ppy.sh/users/17104779) | 867,798 | 97.70% | 1,476x | 0 |
+[FlasTEH](https://osu.ppy.sh/users/8443945) | 828,116 | 98.09% | 1,396x | 0 |
+[Satsukiiii](https://osu.ppy.sh/users/25626082) | 644,227 | 97.38% | 1,062x | 0 |
+| ***Italy*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[duke](https://osu.ppy.sh/users/21709356) | 684,421 | 96.74% | 988x | 0 |
+[MeOwz](https://osu.ppy.sh/users/17446380) | 681,470 | 97.17% | 1,023x | 1 |
+[Arge](https://osu.ppy.sh/users/11215030) | 565,281 | 97.45% | 680x | 1 |
+[BELLOFIGO](https://osu.ppy.sh/users/18818123) | 526,227 | 94.83% | 923x | 0 |
+
+**France 3,512,594** - 2,457,399 Italy
+
+France wins by 1,055,195
+
+France (2) - 0 Italy
+***
+###Map 3 (picked by Italy)
+***
+
+####NM5 | [Frog96 - Letter to the Black World &#91;the censoring of lifes&#93;](https://osu.ppy.sh/beatmaps/5359085)
+
+1:59 — 185 BPM — 6.2★ — 881x
+
+| ***France*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Musty](https://osu.ppy.sh/users/251683) | 977,355 | 99.42% | 878x | 0 |
+[calangi](https://osu.ppy.sh/users/7810180) | 711,551 | 98.36% | 689x | 3 |
+[Hifkil](https://osu.ppy.sh/users/4301976) | 619,102 | 98.69% | 568x | 2 |
+[Satsukiiii](https://osu.ppy.sh/users/25626082) | 560,919 | 99.23% | 444x | 2 |
+| ***Italy*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Arge](https://osu.ppy.sh/users/11215030) | 703,863 | 98.36% | 677x | 4 |
+[kiirochii](https://osu.ppy.sh/users/6387149) | 698,835 | 99.01% | 627x | 0 |
+[Ryuzaki](https://osu.ppy.sh/users/7165477) | 609,215 | 98.98% | 565x | 3 |
+[BELLOFIGO](https://osu.ppy.sh/users/18818123) | 597,091 | 97.75% | 576x | 2 |
+
+**France 2,868,927** - 2,609,004 Italy
+
+France wins by 259,923
+
+France (3) - 0 Italy
+***
+###Map 4 (picked by France)
+***
+
+####NM2 | [RINYA - Kyokugen BON Odori &#91;Group Stage: Funyamorake (#16) vs Kuragefunya (#17)&#93;](https://osu.ppy.sh/beatmaps/5365982)
+
+2:08 — 230 BPM — 7.2★ — 1,511x
+
+| ***France*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[FlasTEH](https://osu.ppy.sh/users/8443945) | 974,156 | 99.14% | 1,510x | 0 |
+[Satsukiiii](https://osu.ppy.sh/users/25626082) | 666,957 | 99.33% | 1,001x | 2 |
+[JapWhite](https://osu.ppy.sh/users/7068158) | 638,277 | 99.11% | 886x | 1 |
+[Geordie Greep](https://osu.ppy.sh/users/17104779) | 487,370 | 98.70% | 621x | 4 |
+| ***Italy*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Arge](https://osu.ppy.sh/users/11215030) | 995,743 | 99.76% | 1,510x | 0 |
+[MeOwz](https://osu.ppy.sh/users/17446380) | 690,528 | 98.39% | 1,113x | 0 |
+[duke](https://osu.ppy.sh/users/21709356) | 564,797 | 98.59% | 869x | 1 |
+[Ryuzaki](https://osu.ppy.sh/users/7165477) | 408,813 | 96.31% | 561x | 0 |
+
+**France 2,766,760** - 2,659,881 Italy
+
+France wins by 106,879
+
+France (4) - 0 Italy
+***
+###Map 5 (picked by Italy)
+***
+
+####HR1 | [alien3 - alien friend request &#91;GOFROG&#93;](https://osu.ppy.sh/beatmaps/4766086)
+
+3:24 — 200 BPM — 6.7★ — 1,641x
+
+| ***France*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Hifkil](https://osu.ppy.sh/users/4301976) | 1,033,691 | 98.30% | 1,637x | 0 |
+[Musty](https://osu.ppy.sh/users/251683) | 840,629 | 99.54% | 1,307x | 0 |
+[calangi](https://osu.ppy.sh/users/7810180) | 770,043 | 97.55% | 1,306x | 1 |
+[fiaee](https://osu.ppy.sh/users/10325072) | 526,353 | 98.63% | 549x | 0 |
+| ***Italy*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[kiirochii](https://osu.ppy.sh/users/6387149) | 979,695 | 99.25% | 1,536x | 2 |
+[duke](https://osu.ppy.sh/users/21709356) | 708,303 | 98.82% | 1,148x | 2 |
+[Arge](https://osu.ppy.sh/users/11215030) | 674,759 | 98.85% | 967x | 3 |
+[MeOwz](https://osu.ppy.sh/users/17446380) | 417,853 | 97.89% | 466x | 4 |
+
+**France 3,170,716** - 2,780,610 Italy
+
+France wins by 390,106
+
+**France (5)** - 0 Italy

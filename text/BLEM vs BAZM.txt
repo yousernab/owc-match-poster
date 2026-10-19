@@ -1,0 +1,347 @@
+## **BLEM 7** - 6 BAZM
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/116426841) | [Bracket](https://challonge.com/OWC24) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2024) | [Sheet](https://docs.google.com/spreadsheets/d/1r6atZf2Qbeg8s0Uq_K3z5MNBM-BMMC7hYYJ0cz065Ng)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***BLEM*** || ***BAZM*** ||
+|:-:|:-:|:-:|:-:|
+| [xootynator](https://osu.ppy.sh/users/3717598) | 1.910 | [enri](https://osu.ppy.sh/users/8640970) | 2.330 |
+| [Welter](https://osu.ppy.sh/users/11552867) | 1.767 | [EthantrixV2](https://osu.ppy.sh/users/10634348) | 1.478 |
+| [Skrowell](https://osu.ppy.sh/users/9694263) | 1.743 | [Wieran](https://osu.ppy.sh/users/2303856) | 1.363 |
+| [Milkteaism](https://osu.ppy.sh/users/9642774) | 1.736 | [Azer](https://osu.ppy.sh/users/2155578) | 1.276 |
+| [Bubbleman](https://osu.ppy.sh/users/5182050) | 1.692 | [Riot](https://osu.ppy.sh/users/4256461) | 1.231 |
+| [9MlCE](https://osu.ppy.sh/users/9269034) | 1.681 | [niqht](https://osu.ppy.sh/users/14390731) | 0.832 |
+| [HAUNTE](https://osu.ppy.sh/users/7333471) | 1.629 | [ChillierPear](https://osu.ppy.sh/users/9501251) | 0.797 |
+| [okinamo](https://osu.ppy.sh/users/3765989) | 1.378 | [Yip](https://osu.ppy.sh/users/5177569) | 0.705 |
+| [mangomizer](https://osu.ppy.sh/users/1893718) | 0.004 |||
+***
+###Map 1 (picked by BAZM)
+***
+
+####HD3 | [Gram vs. DJ Genki - XIchedelic Nova Trinity &#91;C12H17N2O4P&#93;](https://osu.ppy.sh/beatmaps/4881714)
+
+2:44 — 165 BPM — 8.1★ — 1,693x
+
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[xootynator](https://osu.ppy.sh/users/3717598) | 514,690 | 95.66% | 1,010x | 2 |
+[Skrowell](https://osu.ppy.sh/users/9694263) | 460,685 | 95.60% | 936x | 10 |
+[HAUNTE](https://osu.ppy.sh/users/7333471) | 382,936 | 91.98% | 932x | 25 |
+[Welter](https://osu.ppy.sh/users/11552867) | 257,579 | 94.29% | 306x | 25 |
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[enri](https://osu.ppy.sh/users/8640970) | 404,122 | 95.80% | 813x | 26 |
+[Azer](https://osu.ppy.sh/users/2155578) | 230,757 | 91.92% | 347x | 44 |
+[EthantrixV2](https://osu.ppy.sh/users/10634348) | 155,295 | 84.67% | 458x | 34 |
+[ChillierPear](https://osu.ppy.sh/users/9501251) | 147,535 | 88.59% | 218x | 60 |
+
+**BLEM 1,615,890** - 937,709 BAZM
+
+BLEM wins by 678,181
+
+BLEM (1) - 0 BAZM
+***
+###Map 2 (picked by BLEM)
+***
+
+####DT3 | [Demetori - Wind God Girl &#91;Extra&#93;](https://osu.ppy.sh/beatmaps/74684)
+
+3:13 — 300 BPM — 9.0★ — 1,974x
+
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Milkteaism](https://osu.ppy.sh/users/9642774) +HD | 482,901 | 92.70% | 861x | 5 |
+[Bubbleman](https://osu.ppy.sh/users/5182050) | 190,401 | 84.47% | 487x | 10 |
+[Welter](https://osu.ppy.sh/users/11552867) +EZ | 180,931 (x2) | 89.42% | 816x | 12 |
+[9MlCE](https://osu.ppy.sh/users/9269034) +HDHR | 150,712 | 76.44% | 545x | 45 |
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Wieran](https://osu.ppy.sh/users/2303856) | 253,157 | 87.42% | 685x | 17 |
+[enri](https://osu.ppy.sh/users/8640970) +EZHD | 244,449 (x2) | 90.34% | 895x | 18 |
+[EthantrixV2](https://osu.ppy.sh/users/10634348) +EZHD | 212,114 (x2) | 90.64% | 957x | 7 |
+[Riot](https://osu.ppy.sh/users/4256461) +HDHR | 44,785 | 61.10% | 112x | 65 |
+
+BLEM 1,185,876 - **1,211,068 BAZM**
+
+BAZM wins by 25,192
+
+BLEM 1 - (1) BAZM
+***
+###Map 3 (picked by BAZM)
+***
+
+####FM2 | [Camellia - Yume Nikki Mega Mix (20th Anniversary Remake) &#91;ploem&#93;](https://osu.ppy.sh/beatmaps/4881763)
+
+3:37 — 180 BPM — 7.5★ — 2,061x
+
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[EthantrixV2](https://osu.ppy.sh/users/10634348) +HD | 323,490 | 93.88% | 801x | 24 |
+[Azer](https://osu.ppy.sh/users/2155578) +HDHR | 214,970 | 92.44% | 249x | 55 |
+[enri](https://osu.ppy.sh/users/8640970) +HR | 201,787 | 91.82% | 248x | 58 |
+[Yip](https://osu.ppy.sh/users/5177569) | 183,381 | 92.31% | 250x | 46 |
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Welter](https://osu.ppy.sh/users/11552867) +HR | 242,799 | 93.76% | 308x | 32 |
+[HAUNTE](https://osu.ppy.sh/users/7333471) | 235,183 | 93.29% | 404x | 24 |
+[xootynator](https://osu.ppy.sh/users/3717598) +HD | 145,180 | 89.11% | 231x | 82 |
+[9MlCE](https://osu.ppy.sh/users/9269034) | 97,924 | 84.58% | 267x | 90 |
+
+BLEM 721,086 - **923,628 BAZM**
+
+BAZM wins by 202,542
+
+BLEM 1 - (2) BAZM
+***
+###Map 4 (picked by BLEM)
+***
+
+####HD2 | [Omoi feat. Hatsune Miku - Snow Drive(01.23) &#91;Journey's End&#93;](https://osu.ppy.sh/beatmaps/4881475)
+
+3:38 — 224 BPM — 7.5★ — 1,734x
+
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[EthantrixV2](https://osu.ppy.sh/users/10634348) | 302,802 | 94.85% | 565x | 19 |
+[Azer](https://osu.ppy.sh/users/2155578) | 216,057 | 93.35% | 259x | 60 |
+[enri](https://osu.ppy.sh/users/8640970) | 176,985 | 90.24% | 321x | 94 |
+[Yip](https://osu.ppy.sh/users/5177569) | 46,329 | 77.44% | 102x | 211 |
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Skrowell](https://osu.ppy.sh/users/9694263) | 153,376 | 90.55% | 159x | 69 |
+[Bubbleman](https://osu.ppy.sh/users/5182050) | 140,956 | 89.52% | 146x | 81 |
+[xootynator](https://osu.ppy.sh/users/3717598) | 115,430 | 86.78% | 124x | 120 |
+[Milkteaism](https://osu.ppy.sh/users/9642774) | 96,634 | 85.08% | 176x | 136 |
+
+BLEM 506,396 - **742,173 BAZM**
+
+BAZM wins by 235,777
+
+BLEM 1 - (3) BAZM
+***
+###Map 5 (picked by BAZM)
+***
+
+####NM4 | [XenjeS - Organic's Decay (Cut Ver.) &#91;Life Form Disintegration Ray&#93;](https://osu.ppy.sh/beatmaps/4881668)
+
+4:22 — 174 BPM — 7.4★ — 2,763x
+
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Welter](https://osu.ppy.sh/users/11552867) | 312,426 | 93.42% | 1,190x | 16 |
+[xootynator](https://osu.ppy.sh/users/3717598) | 228,554 | 92.81% | 550x | 21 |
+[Skrowell](https://osu.ppy.sh/users/9694263) | 215,308 | 91.99% | 814x | 23 |
+[HAUNTE](https://osu.ppy.sh/users/7333471) | 170,762 | 90.82% | 445x | 28 |
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[enri](https://osu.ppy.sh/users/8640970) | 296,974 | 95.53% | 730x | 11 |
+[Riot](https://osu.ppy.sh/users/4256461) | 140,461 | 89.03% | 428x | 44 |
+[Azer](https://osu.ppy.sh/users/2155578) | 129,659 | 89.23% | 251x | 57 |
+[Yip](https://osu.ppy.sh/users/5177569) | 115,582 | 88.20% | 359x | 87 |
+
+**BLEM 927,050** - 682,676 BAZM
+
+BLEM wins by 244,374
+
+BLEM (2) - 3 BAZM
+***
+###Map 6 (picked by BLEM)
+***
+
+####DT2 | [Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix &#91;Spin to Win&#93;](https://osu.ppy.sh/beatmaps/4881745)
+
+2:24 — 240 BPM — 8.5★ — 1,580x
+
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[okinamo](https://osu.ppy.sh/users/3765989) | 515,504 | 97.40% | 477x | 6 |
+[Bubbleman](https://osu.ppy.sh/users/5182050) | 509,443 | 96.07% | 619x | 8 |
+[Milkteaism](https://osu.ppy.sh/users/9642774) | 504,888 | 95.07% | 776x | 12 |
+[9MlCE](https://osu.ppy.sh/users/9269034) | 475,378 | 95.53% | 688x | 11 |
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Wieran](https://osu.ppy.sh/users/2303856) | 441,371 | 93.30% | 726x | 23 |
+[enri](https://osu.ppy.sh/users/8640970) | 269,999 | 83.65% | 681x | 48 |
+[Riot](https://osu.ppy.sh/users/4256461) | 266,755 | 89.09% | 438x | 34 |
+[EthantrixV2](https://osu.ppy.sh/users/10634348) +EZHD | 75,582 (x2) | 83.16% | 320x | 44 |
+
+**BLEM 2,005,213** - 1,129,289 BAZM
+
+BLEM wins by 875,924
+
+BLEM (3) - 3 BAZM
+***
+###Map 7 (picked by BAZM)
+***
+
+####NM1 | [Ito Kanako - Sky of Twilight &#91;Arles&#93;](https://osu.ppy.sh/beatmaps/4881501)
+
+6:11 — 216 BPM — 8.6★ — 2,819x
+
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[xootynator](https://osu.ppy.sh/users/3717598) | 383,278 | 96.36% | 1,038x | 14 |
+[Welter](https://osu.ppy.sh/users/11552867) | 317,470 | 96.46% | 706x | 38 |
+[9MlCE](https://osu.ppy.sh/users/9269034) | 284,931 | 96.30% | 554x | 35 |
+[Milkteaism](https://osu.ppy.sh/users/9642774) | 263,906 | 95.75% | 419x | 29 |
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[ChillierPear](https://osu.ppy.sh/users/9501251) | 239,290 | 93.64% | 623x | 60 |
+[Riot](https://osu.ppy.sh/users/4256461) | 235,120 | 94.30% | 537x | 41 |
+[enri](https://osu.ppy.sh/users/8640970) | 205,432 | 91.99% | 644x | 120 |
+[Azer](https://osu.ppy.sh/users/2155578) | 145,695 | 88.27% | 650x | 75 |
+
+**BLEM 1,249,585** - 825,537 BAZM
+
+BLEM wins by 424,048
+
+BLEM (4) - 3 BAZM
+***
+###Map 8 (picked by BLEM)
+***
+
+####NM3 | [TK from Ling tosite sigure - unravel &#91;otshelnik&#93;](https://osu.ppy.sh/beatmaps/4881614)
+
+3:45 — 135 BPM — 8.1★ — 1,642x
+
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Skrowell](https://osu.ppy.sh/users/9694263) | 357,912 | 95.37% | 570x | 18 |
+[HAUNTE](https://osu.ppy.sh/users/7333471) | 357,347 | 94.57% | 756x | 15 |
+[Bubbleman](https://osu.ppy.sh/users/5182050) | 274,510 | 94.52% | 503x | 25 |
+[okinamo](https://osu.ppy.sh/users/3765989) | 237,799 | 93.19% | 398x | 34 |
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[enri](https://osu.ppy.sh/users/8640970) | 352,611 | 96.40% | 516x | 27 |
+[EthantrixV2](https://osu.ppy.sh/users/10634348) +HD | 246,308 | 93.11% | 357x | 20 |
+[Riot](https://osu.ppy.sh/users/4256461) | 236,000 | 93.96% | 387x | 36 |
+[ChillierPear](https://osu.ppy.sh/users/9501251) | 119,658 | 87.94% | 147x | 100 |
+
+**BLEM 1,227,568** - 954,577 BAZM
+
+BLEM wins by 272,991
+
+BLEM (5) - 3 BAZM
+***
+###Map 9 (picked by BAZM)
+***
+
+####FM3 | [Nanahoshi Kangengakudan feat. Hatsune Miku - Rubik's Cube &#91;owc ver.&#93;](https://osu.ppy.sh/beatmaps/4881933)
+
+3:07 — 174 BPM — 8.1★ — 1,723x
+
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[enri](https://osu.ppy.sh/users/8640970) +HR | 590,134 | 98.15% | 985x | 9 |
+[Riot](https://osu.ppy.sh/users/4256461) | 309,841 | 91.86% | 801x | 39 |
+[EthantrixV2](https://osu.ppy.sh/users/10634348) +HD | 244,833 | 88.15% | 681x | 46 |
+[niqht](https://osu.ppy.sh/users/14390731) +HDHR | 215,004 | 89.55% | 396x | 99 |
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[HAUNTE](https://osu.ppy.sh/users/7333471) +HR | 379,389 | 96.51% | 370x | 12 |
+[9MlCE](https://osu.ppy.sh/users/9269034) +HR | 328,234 | 93.63% | 640x | 39 |
+[Welter](https://osu.ppy.sh/users/11552867) +HR | 315,926 | 94.43% | 510x | 30 |
+[okinamo](https://osu.ppy.sh/users/3765989) +HD | 189,660 | 88.67% | 418x | 76 |
+
+BLEM 1,213,209 - **1,359,812 BAZM**
+
+BAZM wins by 146,603
+
+BLEM 5 - (4) BAZM
+***
+###Map 10 (picked by BLEM)
+***
+
+####NM2 | [Attoclef - Naples Yellow Mango &#91;Van Gogh's Miss (feat. Hollow Wings)&#93;](https://osu.ppy.sh/beatmaps/4881869)
+
+2:29 — 220 BPM — 7.6★ — 1,419x
+
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[enri](https://osu.ppy.sh/users/8640970) | 336,605 | 95.94% | 336x | 6 |
+[Azer](https://osu.ppy.sh/users/2155578) | 205,918 | 93.11% | 273x | 10 |
+[Riot](https://osu.ppy.sh/users/4256461) | 168,783 | 88.06% | 458x | 18 |
+[ChillierPear](https://osu.ppy.sh/users/9501251) | 50,306 | 78.10% | 107x | 71 |
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[xootynator](https://osu.ppy.sh/users/3717598) | 271,619 | 92.83% | 388x | 8 |
+[Bubbleman](https://osu.ppy.sh/users/5182050) | 259,556 | 93.74% | 345x | 11 |
+[Milkteaism](https://osu.ppy.sh/users/9642774) | 168,673 | 90.94% | 198x | 17 |
+[mangomizer](https://osu.ppy.sh/users/1893718) | 1,172 | 9.91% | 12x | 676 |
+
+BLEM 701,020 - **761,612 BAZM**
+
+BAZM wins by 60,592
+
+BLEM 5 - (5) BAZM
+***
+###Map 11 (picked by BAZM)
+***
+
+####HR3 | [TAROLIN feat. Katakiri Rekka - Cardinal Rave &#91;Landed in the Dogwood&#93;](https://osu.ppy.sh/beatmaps/2332178)
+
+4:00 — 160 BPM — 8.3★ — 2,110x
+
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Welter](https://osu.ppy.sh/users/11552867) | 437,749 | 96.54% | 873x | 4 |
+[Skrowell](https://osu.ppy.sh/users/9694263) | 398,563 | 93.38% | 1,101x | 10 |
+[Bubbleman](https://osu.ppy.sh/users/5182050) | 312,220 | 94.04% | 564x | 7 |
+[HAUNTE](https://osu.ppy.sh/users/7333471) | 256,925 | 92.78% | 499x | 12 |
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[enri](https://osu.ppy.sh/users/8640970) | 329,648 | 94.79% | 711x | 20 |
+[Azer](https://osu.ppy.sh/users/2155578) | 289,915 | 94.32% | 509x | 17 |
+[ChillierPear](https://osu.ppy.sh/users/9501251) | 226,905 | 92.50% | 521x | 38 |
+[niqht](https://osu.ppy.sh/users/14390731) | 212,890 | 91.86% | 348x | 18 |
+
+**BLEM 1,405,457** - 1,059,358 BAZM
+
+BLEM wins by 346,099
+
+BLEM (6) - 5 BAZM
+***
+###Map 12 (picked by BLEM)
+***
+
+####DT5 | [Our Stolen Theory - United (L.A.O.S Remix) [Infinity]](https://osu.ppy.sh/beatmaps/550235)
+
+3:20 — 263 BPM — 8.9★ — 2,275x
+
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[enri](https://osu.ppy.sh/users/8640970) | 501,232 | 96.80% | 1,008x | 12 |
+[Wieran](https://osu.ppy.sh/users/2303856) +HD | 293,932 | 93.80% | 316x | 35 |
+[ChillierPear](https://osu.ppy.sh/users/9501251) +HD | 74,574 | 76.98% | 276x | 169 |
+[Azer](https://osu.ppy.sh/users/2155578) +HD | 33,287 | 66.97% | 144x | 164 |
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[9MlCE](https://osu.ppy.sh/users/9269034) +HD | 448,636 | 96.68% | 826x | 12 |
+
+BLEM 448,636 - **903,025 BAZM**
+
+BAZM wins by 454,389
+
+BLEM 6 - (6) BAZM
+***
+###Map 13 (Tiebreaker)
+***
+
+####TB | [Camellia - Operation: Zenithfall &#91;FINAL MISSION&#93;](https://osu.ppy.sh/beatmaps/4881796)
+
+5:40 — 230 BPM — 8.5★ — 3,643x
+
+| ***BLEM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[xootynator](https://osu.ppy.sh/users/3717598) +HD | 271,175 | 94.68% | 707x | 22 |
+[9MlCE](https://osu.ppy.sh/users/9269034) | 260,466 | 94.57% | 759x | 28 |
+[okinamo](https://osu.ppy.sh/users/3765989) +HD | 249,973 | 93.97% | 767x | 17 |
+[Bubbleman](https://osu.ppy.sh/users/5182050) | 202,325 | 92.90% | 522x | 22 |
+[Welter](https://osu.ppy.sh/users/11552867) +HR | 159,579 | 90.43% | 376x | 82 |
+[Azer](https://osu.ppy.sh/users/2155578) +HD | 88,746 | 84.53% | 267x | 86 |
+| ***BAZM*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[enri](https://osu.ppy.sh/users/8640970) | 399,151 | 96.84% | 1,259x | 21 |
+[Riot](https://osu.ppy.sh/users/4256461) | 168,991 | 90.70% | 440x | 32 |
+[niqht](https://osu.ppy.sh/users/14390731) +HD | 136,027 | 87.62% | 552x | 105 |
+[Wieran](https://osu.ppy.sh/users/2303856) | 131,250 | 88.87% | 309x | 50 |
+[EthantrixV2](https://osu.ppy.sh/users/10634348) +HD | 106,231 | 84.84% | 462x | 49 |
+[ChillierPear](https://osu.ppy.sh/users/9501251) +HR | 89,490 | 83.91% | 279x | 130 |
+
+**BLEM 1,232,264** - 1,031,140 BAZM
+
+BLEM wins by 201,124
+
+**BLEM (7)** - 6 BAZM

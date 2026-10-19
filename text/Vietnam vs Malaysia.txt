@@ -1,0 +1,243 @@
+## Vietnam 3 - **5 Malaysia**
+
+**Group E Standings:**
+
+| **Team** | **W** | **L** | **PD** |
+|:-:|:-:|:-:|:-:|
+| ***Malaysia*** (#33) | 2 | 0 | +4 |
+| ***Taiwan*** (#26) | 0 | 0 | 0 |
+| ***Denmark*** (#37) | 0 | 0 | 0 |
+| ***Vietnam*** (#32) | 0 | 2 | -4 |
+
+
+^(Top 2 advance to Losers Round of 16)  
+^(Bottom 2 are eliminated)
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119701959) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***Vietnam*** |#32| ***Malaysia*** |#33|
+|:-:|:-:|:-:|:-:|
+| [def](https://osu.ppy.sh/users/21619075) | 1.852 | [mabayu](https://osu.ppy.sh/users/11918602) | 1.786 |
+| [baoo](https://osu.ppy.sh/users/11021073) | 1.554 | [Rampax](https://osu.ppy.sh/users/3995630) | 1.755 |
+| [Another Guy](https://osu.ppy.sh/users/4540667) | 1.527 | [n0 head](https://osu.ppy.sh/users/14067834) | 1.660 |
+| [_Casiofx580vnx](https://osu.ppy.sh/users/848961) | 1.171 | [Harumi Ena](https://osu.ppy.sh/users/16436446) | 1.326 |
+| [smthelse](https://osu.ppy.sh/users/13238121) | 1.013 | [Chiyuu](https://osu.ppy.sh/users/8226107) | 1.078 |
+| [Seamie](https://osu.ppy.sh/users/6225096) | 0.759 | [AHotDawg](https://osu.ppy.sh/users/15271985) | 1.069 |
+| [electrostrike](https://osu.ppy.sh/users/11538640) | 0.338 | [mint breeze](https://osu.ppy.sh/users/10343292) | - |
+| [realshin](https://osu.ppy.sh/users/8006029) | - | [Chibi Maruko](https://osu.ppy.sh/users/5585377) | - |
+***
+**Bans:**
+
+*Vietnam*
+
+DT2 | [Denkishiki Karen Ongaku Shuudan - Elder Things &#91;Insane&#93;](https://osu.ppy.sh/beatmaps/3863677)
+
+*Malaysia*
+
+NM3 | [VESPERBELL - Chocolate Disco &#91;Bittersweet&#93;](https://osu.ppy.sh/beatmaps/2957016)
+
+***
+###Map 1 (picked by Vietnam)
+***
+
+####HD2 | [I love you orchestra - Coconut Love &#91;Nucifera&#93;](https://osu.ppy.sh/beatmaps/3400091)
+
+2:26 — 180 BPM — 5.9★ — 1,111x
+
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[mabayu](https://osu.ppy.sh/users/11918602) | 726,909 | 97.50% | 889x | 2 |
+[Chiyuu](https://osu.ppy.sh/users/8226107) | 442,503 | 96.02% | 499x | 8 |
+[AHotDawg](https://osu.ppy.sh/users/15271985) | 415,167 | 92.65% | 539x | 8 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 315,964 | 95.56% | 295x | 6 |
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[def](https://osu.ppy.sh/users/21619075) | 565,342 | 98.43% | 616x | 4 |
+[smthelse](https://osu.ppy.sh/users/13238121) | 429,421 | 95.97% | 458x | 12 |
+[Seamie](https://osu.ppy.sh/users/6225096) | 398,056 | 97.15% | 423x | 4 |
+[electrostrike](https://osu.ppy.sh/users/11538640) | 222,999 | 89.71% | 305x | 15 |
+
+Vietnam 1,615,818 - **1,900,543 Malaysia**
+
+Malaysia wins by 284,725
+
+Vietnam 0 - (1) Malaysia
+***
+###Map 2 (picked by Malaysia)
+***
+
+####NM2 | [RINYA - Kyokugen BON Odori &#91;Group Stage: Funyamorake (#16) vs Kuragefunya (#17)&#93;](https://osu.ppy.sh/beatmaps/5365982)
+
+2:08 — 230 BPM — 7.2★ — 1,511x
+
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Rampax](https://osu.ppy.sh/users/3995630) | 964,471 | 98.84% | 1,511x | 0 |
+[mabayu](https://osu.ppy.sh/users/11918602) | 908,343 | 98.42% | 1,460x | 0 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 680,971 | 97.95% | 1,121x | 1 |
+[n0 head](https://osu.ppy.sh/users/14067834) | 677,633 | 97.63% | 1,160x | 3 |
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[def](https://osu.ppy.sh/users/21619075) | 737,995 | 99.37% | 1,191x | 0 |
+[Another Guy](https://osu.ppy.sh/users/4540667) | 582,262 | 99.49% | 869x | 2 |
+[smthelse](https://osu.ppy.sh/users/13238121) | 401,932 | 95.33% | 533x | 4 |
+[baoo](https://osu.ppy.sh/users/11021073) | 348,946 | 95.32% | 542x | 3 |
+
+Vietnam 2,071,135 - **3,231,418 Malaysia**
+
+Malaysia wins by 1,160,283
+
+Vietnam 0 - (2) Malaysia
+***
+###Map 3 (picked by Vietnam)
+***
+
+####FM2 | [EBIMAYO - NIGHTMARE INVITATION &#91;MASQUERADE&#93;](https://osu.ppy.sh/beatmaps/5364927)
+
+1:58 — 195 BPM — 6.7★ — 1,271x
+
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[baoo](https://osu.ppy.sh/users/11021073) | 979,002 | 99.45% | 1,268x | 0 |
+[def](https://osu.ppy.sh/users/21619075) | 640,704 | 99.02% | 759x | 0 |
+[Another Guy](https://osu.ppy.sh/users/4540667) +HR | 623,052 | 98.71% | 726x | 3 |
+[_Casiofx580vnx](https://osu.ppy.sh/users/848961) +HD | 561,965 | 98.24% | 578x | 7 |
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[n0 head](https://osu.ppy.sh/users/14067834) | 703,948 | 98.52% | 996x | 8 |
+[Rampax](https://osu.ppy.sh/users/3995630) +HR | 678,628 | 97.66% | 905x | 5 |
+[mabayu](https://osu.ppy.sh/users/11918602) +HD | 514,452 | 98.24% | 618x | 9 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 477,075 | 98.14% | 507x | 11 |
+
+**Vietnam 2,804,723** - 2,374,103 Malaysia
+
+Vietnam wins by 430,620
+
+Vietnam (1) - 2 Malaysia
+***
+###Map 4 (picked by Malaysia)
+***
+
+####DT1 | [R-note - Desire Shooting &#91;Lunatic&#93;](https://osu.ppy.sh/beatmaps/5365588)
+
+2:43 — 237 BPM — 7.2★ — 1,234x
+
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Another Guy](https://osu.ppy.sh/users/4540667) | 1,218,215 | 99.87% | 1,234x | 0 |
+[def](https://osu.ppy.sh/users/21619075) | 1,198,020 | 99.54% | 1,234x | 0 |
+[baoo](https://osu.ppy.sh/users/11021073) | 1,061,434 | 97.88% | 1,175x | 2 |
+[smthelse](https://osu.ppy.sh/users/13238121) | 767,125 | 98.56% | 833x | 3 |
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Rampax](https://osu.ppy.sh/users/3995630) | 1,185,447 | 99.20% | 1,234x | 0 |
+[n0 head](https://osu.ppy.sh/users/14067834) | 1,155,809 | 98.54% | 1,234x | 0 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 775,766 | 99.00% | 696x | 1 |
+[AHotDawg](https://osu.ppy.sh/users/15271985) | 656,439 | 95.24% | 733x | 1 |
+
+**Vietnam 4,244,794** - 3,773,461 Malaysia
+
+Vietnam wins by 471,333
+
+Vietnam (2) - 2 Malaysia
+***
+###Map 5 (picked by Vietnam)
+***
+
+####HR1 | [alien3 - alien friend request &#91;GOFROG&#93;](https://osu.ppy.sh/beatmaps/4766086)
+
+3:24 — 200 BPM — 6.7★ — 1,641x
+
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[baoo](https://osu.ppy.sh/users/11021073) | 943,054 | 96.07% | 1,613x | 1 |
+[def](https://osu.ppy.sh/users/21619075) | 656,900 | 98.85% | 1,050x | 2 |
+[_Casiofx580vnx](https://osu.ppy.sh/users/848961) | 493,998 | 96.24% | 824x | 3 |
+[Another Guy](https://osu.ppy.sh/users/4540667) | 475,051 | 97.26% | 693x | 2 |
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 515,962 | 98.08% | 701x | 2 |
+[Chiyuu](https://osu.ppy.sh/users/8226107) | 503,219 | 96.95% | 634x | 4 |
+[Rampax](https://osu.ppy.sh/users/3995630) | 475,909 | 98.05% | 502x | 1 |
+[mabayu](https://osu.ppy.sh/users/11918602) | 445,587 | 97.52% | 551x | 3 |
+
+**Vietnam 2,569,003** - 1,940,677 Malaysia
+
+Vietnam wins by 628,326
+
+Vietnam (3) - 2 Malaysia
+***
+###Map 6 (picked by Malaysia)
+***
+
+####DT3 | [ZANI - Glass &#91;oh&#93;](https://osu.ppy.sh/beatmaps/5364986)
+
+2:07 — 141 BPM — 6.6★ — 963x
+
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Rampax](https://osu.ppy.sh/users/3995630) | 1,168,644 | 99.12% | 963x | 0 |
+[n0 head](https://osu.ppy.sh/users/14067834) | 897,740 | 98.49% | 782x | 0 |
+[mabayu](https://osu.ppy.sh/users/11918602) | 782,449 | 98.20% | 656x | 0 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 710,614 | 96.93% | 630x | 2 |
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Another Guy](https://osu.ppy.sh/users/4540667) | 1,162,153 | 98.95% | 963x | 0 |
+[def](https://osu.ppy.sh/users/21619075) | 861,911 | 98.12% | 760x | 1 |
+[baoo](https://osu.ppy.sh/users/11021073) | 723,967 | 94.88% | 716x | 3 |
+[Seamie](https://osu.ppy.sh/users/6225096) | 522,082 | 97.22% | 411x | 3 |
+
+Vietnam 3,270,113 - **3,559,447 Malaysia**
+
+Malaysia wins by 289,334
+
+Vietnam 3 - (3) Malaysia
+***
+###Map 7 (picked by Vietnam)
+***
+
+####HR2 | [MEMODEMO - Showoff Showdown &#91;Disco Deluxe (OWC Ver.)&#93;](https://osu.ppy.sh/beatmaps/5365995)
+
+2:31 — 140 BPM — 6.2★ — 1,174x
+
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[n0 head](https://osu.ppy.sh/users/14067834) | 1,008,345 | 97.47% | 1,169x | 0 |
+[mabayu](https://osu.ppy.sh/users/11918602) | 675,509 | 96.78% | 852x | 1 |
+[Rampax](https://osu.ppy.sh/users/3995630) | 554,137 | 95.23% | 744x | 2 |
+[Chiyuu](https://osu.ppy.sh/users/8226107) | 536,559 | 95.56% | 604x | 2 |
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[def](https://osu.ppy.sh/users/21619075) | 861,930 | 97.71% | 1,028x | 0 |
+[_Casiofx580vnx](https://osu.ppy.sh/users/848961) | 735,456 | 93.29% | 1,025x | 1 |
+[Another Guy](https://osu.ppy.sh/users/4540667) | 625,626 | 97.21% | 757x | 2 |
+[baoo](https://osu.ppy.sh/users/11021073) | 402,793 | 93.97% | 490x | 6 |
+
+Vietnam 2,625,805 - **2,774,550 Malaysia**
+
+Malaysia wins by 148,745
+
+Vietnam 3 - (4) Malaysia
+***
+###Map 8 (picked by Malaysia)
+***
+
+####HD1 | [Luna Fozer - Overjoy * OVERDOSE!! &#91;OVERDOSE!!&#93;](https://osu.ppy.sh/beatmaps/5187418)
+
+2:26 — 143 BPM — 6.1★ — 1,269x
+
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[mabayu](https://osu.ppy.sh/users/11918602) | 895,795 | 96.88% | 1,214x | 1 |
+[Rampax](https://osu.ppy.sh/users/3995630) | 696,474 | 96.76% | 996x | 1 |
+[AHotDawg](https://osu.ppy.sh/users/15271985) | 635,861 | 95.92% | 940x | 0 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 569,345 | 96.61% | 792x | 1 |
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[def](https://osu.ppy.sh/users/21619075) | 725,248 | 98.55% | 931x | 3 |
+[smthelse](https://osu.ppy.sh/users/13238121) | 409,081 | 96.09% | 439x | 6 |
+[Another Guy](https://osu.ppy.sh/users/4540667) | 404,126 | 96.31% | 381x | 7 |
+[_Casiofx580vnx](https://osu.ppy.sh/users/848961) | 402,768 | 95.45% | 527x | 3 |
+
+Vietnam 1,941,223 - **2,797,475 Malaysia**
+
+Malaysia wins by 856,252
+
+Vietnam 3 - **(5) Malaysia**

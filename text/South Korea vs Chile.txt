@@ -1,0 +1,159 @@
+## **South Korea 5** - 0 Chile
+
+South Korea will face Australia in the Quarterfinals.
+
+Chile will face the winner of Austria vs Singapore in Losers Round 2.
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119834573) | [Bracket](https://challonge.com/OWC2025) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***South Korea*** |#6| ***Chile*** |#10|
+|:-:|:-:|:-:|:-:|
+| [FlyingTuna](https://osu.ppy.sh/users/9224078) | 1.845 | [alfiu](https://osu.ppy.sh/users/17724014) | 1.517 |
+| [Amamya Kokoro](https://osu.ppy.sh/users/2511839) | 1.602 | [Intercambing](https://osu.ppy.sh/users/2546001) | 1.392 |
+| [Nopekjk](https://osu.ppy.sh/users/4585186) | 1.200 | [xXChokgamerXx](https://osu.ppy.sh/users/7748891) | 0.912 |
+| [Suyong_](https://osu.ppy.sh/users/8799923) | 1.080 | [Hanayume](https://osu.ppy.sh/users/12211248) | 0.823 |
+| [MYKEYBOARD](https://osu.ppy.sh/users/15567583) | 0.903 | [siiphs](https://osu.ppy.sh/users/11786864) | 0.726 |
+| [Allegrissimo](https://osu.ppy.sh/users/9052194) | 0.901 | [Lasseh](https://osu.ppy.sh/users/4881251) | 0.657 |
+| [Chipori](https://osu.ppy.sh/users/7027766) | 0.707 | [NO37](https://osu.ppy.sh/users/4653583) | 0.601 |
+| [&#91;Karcher&#93;](https://osu.ppy.sh/users/11443437) | 0.482 | [Gonzah](https://osu.ppy.sh/users/12434652) | 0.494 |
+***
+**Bans:**
+
+*South Korea*
+
+NM2 | [Hideous Divinity - The Deaden Room &#91;Precognition of Blood&#93;](https://osu.ppy.sh/beatmaps/4984190)
+
+*Chile*
+
+NM5 | [gladde paling - vleermuis &#91;gelukkige aal&#93;](https://osu.ppy.sh/beatmaps/5386813)
+
+***
+###Map 1 (picked by South Korea)
+***
+
+####NM3 | [Masayoshi Takanaka - Gascon Cocktail &#91;Gascogne Sunset&#93;](https://osu.ppy.sh/beatmaps/5386798)
+
+3:28 — 121 BPM — 6.8★ — 1,557x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Amamya Kokoro](https://osu.ppy.sh/users/2511839) | 960,964 | 98.55% | 1,555x | 0 |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 931,782 | 97.65% | 1,555x | 0 |
+[Suyong_](https://osu.ppy.sh/users/8799923) | 876,473 | 96.64% | 1,522x | 0 |
+[Nopekjk](https://osu.ppy.sh/users/4585186) | 777,893 | 96.13% | 1,421x | 0 |
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 898,365 | 96.78% | 1,547x | 0 |
+[siiphs](https://osu.ppy.sh/users/11786864) | 615,509 | 95.15% | 1,215x | 1 |
+[alfiu](https://osu.ppy.sh/users/17724014) | 465,371 | 97.17% | 685x | 2 |
+[xXChokgamerXx](https://osu.ppy.sh/users/7748891) | 443,459 | 96.68% | 694x | 4 |
+
+**South Korea 3,547,112** - 2,422,704 Chile
+
+South Korea wins by 1,124,408
+
+South Korea (1) - 0 Chile
+***
+###Map 2 (picked by Chile)
+***
+
+####DT2 | [senya - Tokuiten no Kaibutsuteki Kanjou &#91;Satellite&#93;](https://osu.ppy.sh/beatmaps/5386832)
+
+1:53 — 234 BPM — 7.3★ — 1,291x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 1,109,316 | 97.75% | 1,291x | 0 |
+[Chipori](https://osu.ppy.sh/users/7027766) | 792,604 | 96.63% | 1,003x | 4 |
+[Suyong_](https://osu.ppy.sh/users/8799923) | 737,491 | 97.75% | 883x | 4 |
+[MYKEYBOARD](https://osu.ppy.sh/users/15567583) | 444,570 | 95.17% | 484x | 17 |
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[alfiu](https://osu.ppy.sh/users/17724014) | 1,150,203 | 98.75% | 1,291x | 0 |
+[xXChokgamerXx](https://osu.ppy.sh/users/7748891) | 666,809 | 96.84% | 837x | 3 |
+[Gonzah](https://osu.ppy.sh/users/12434652) | 553,795 | 96.51% | 588x | 7 |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 527,785 | 94.92% | 596x | 5 |
+
+**South Korea 3,083,981** - 2,898,592 Chile
+
+South Korea wins by 185,389
+
+South Korea (2) - 0 Chile
+***
+###Map 3 (picked by South Korea)
+***
+
+####NM4 | [ABSOLUTE CASTAWAY - step by step &#91;iBell's Waltz&#93;](https://osu.ppy.sh/beatmaps/5167719)
+
+3:13 — 208 BPM — 6.7★ — 1,346x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 938,167 | 98.13% | 1,342x | 0 |
+[Nopekjk](https://osu.ppy.sh/users/4585186) | 913,657 | 97.45% | 1,339x | 0 |
+[Amamya Kokoro](https://osu.ppy.sh/users/2511839) | 589,766 | 98.94% | 771x | 3 |
+[Allegrissimo](https://osu.ppy.sh/users/9052194) | 571,012 | 97.20% | 722x | 0 |
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[alfiu](https://osu.ppy.sh/users/17724014) | 929,071 | 97.92% | 1,341x | 0 |
+[Lasseh](https://osu.ppy.sh/users/4881251) | 708,603 | 93.44% | 1,213x | 1 |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 648,356 | 98.03% | 942x | 1 |
+[siiphs](https://osu.ppy.sh/users/11786864) | 450,619 | 94.75% | 781x | 13 |
+
+**South Korea 3,012,602** - 2,736,649 Chile
+
+South Korea wins by 275,953
+
+South Korea (3) - 0 Chile
+***
+###Map 4 (picked by Chile)
+***
+
+####HR1 | [Sunny Day Service - Kokoro ni Kumo o Motsu Shonen &#91;floph's daydream&#93;](https://osu.ppy.sh/beatmaps/5386473)
+
+3:19 — 194 BPM — 7.1★ — 1,392x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[MYKEYBOARD](https://osu.ppy.sh/users/15567583) | 761,813 | 98.14% | 1,060x | 1 |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 729,987 | 97.71% | 1,025x | 1 |
+[Amamya Kokoro](https://osu.ppy.sh/users/2511839) | 673,382 | 98.64% | 713x | 1 |
+[&#91;Karcher&#93;](https://osu.ppy.sh/users/11443437) | 454,761 | 98.48% | 370x | 4 |
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[alfiu](https://osu.ppy.sh/users/17724014) | 688,622 | 99.02% | 761x | 0 |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 649,114 | 97.32% | 960x | 2 |
+[Hanayume](https://osu.ppy.sh/users/12211248) | 571,572 | 98.77% | 667x | 2 |
+[xXChokgamerXx](https://osu.ppy.sh/users/7748891) | 499,380 | 97.15% | 678x | 7 |
+
+**South Korea 2,619,943** - 2,408,688 Chile
+
+South Korea wins by 211,255
+
+South Korea (4) - 0 Chile
+***
+###Map 5 (picked by South Korea)
+***
+
+####FM3 | [masarada - Liar Dancer &#91;DANSA&#93;](https://osu.ppy.sh/beatmaps/5290020)
+
+3:26 — 170 BPM — 6.5★ — 1,757x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Amamya Kokoro](https://osu.ppy.sh/users/2511839) +HR | 1,053,420 | 98.87% | 1,753x | 0 |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) +HD | 814,092 | 98.71% | 1,469x | 5 |
+[Allegrissimo](https://osu.ppy.sh/users/9052194) | 652,341 | 98.52% | 1,228x | 7 |
+[Nopekjk](https://osu.ppy.sh/users/4585186) | 445,057 | 97.91% | 669x | 8 |
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 664,435 | 97.76% | 1,302x | 1 |
+[NO37](https://osu.ppy.sh/users/4653583) +HD | 583,745 | 98.37% | 1,007x | 6 |
+[alfiu](https://osu.ppy.sh/users/17724014) | 490,817 | 97.79% | 900x | 11 |
+[Hanayume](https://osu.ppy.sh/users/12211248) +HR | 477,094 | 97.27% | 691x | 0 |
+
+**South Korea 2,964,910** - 2,216,091 Chile
+
+South Korea wins by 748,819
+
+**South Korea (5)** - 0 Chile

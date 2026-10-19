@@ -1,0 +1,268 @@
+## Chile 4 - **5 Spain**
+
+**Group C Standings:**
+
+| **Team** | **W** | **L** | **PD** |
+|:-:|:-:|:-:|:-:|
+| ***France*** (#15) | 1 | 0 | +5 |
+| ***Spain*** (#20) | 1 | 0 | +1 |
+| ***Chile*** (#10) | 0 | 1 | -1 |
+| ***Italy*** (#23) | 0 | 1 | -5 |
+
+
+^(Top 2 advance to Winners Round of 16)  
+^(Bottom 2 advance to Losers Round of 16)
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119713766) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***Chile*** |#10| ***Spain*** |#20|
+|:-:|:-:|:-:|:-:|
+| [Intercambing](https://osu.ppy.sh/users/2546001) | 1.930 | [A L E P H](https://osu.ppy.sh/users/6735738) | 1.837 |
+| [alfiu](https://osu.ppy.sh/users/17724014) | 1.699 | [marbl](https://osu.ppy.sh/users/9895270) | 1.572 |
+| [siiphs](https://osu.ppy.sh/users/11786864) | 1.508 | [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) | 1.526 |
+| [NO37](https://osu.ppy.sh/users/4653583) | 1.337 | [BabyScylla](https://osu.ppy.sh/users/9869794) | 1.320 |
+| [Hanayume](https://osu.ppy.sh/users/12211248) | 1.171 | [towny1](https://osu.ppy.sh/users/16512684) | 1.127 |
+| [Lasseh](https://osu.ppy.sh/users/4881251) | 1.030 | [Palodex](https://osu.ppy.sh/users/11821902) | 1.104 |
+| [xXChokgamerXx](https://osu.ppy.sh/users/7748891) | 0.655 | [junamat](https://osu.ppy.sh/users/12296128) | 0.844 |
+| [Gonzah](https://osu.ppy.sh/users/12434652) | - | [&#91;dekori&#93;](https://osu.ppy.sh/users/17465075) | 0.517 |
+***
+**Bans:**
+
+*Chile*
+
+DT2 | [Denkishiki Karen Ongaku Shuudan - Elder Things &#91;Insane&#93;](https://osu.ppy.sh/beatmaps/3863677)
+
+*Spain*
+
+FM1 | [PSYQUI - Eyes on me feat. Such &#91;Shock and Awe (ar 9.2)&#93;](https://osu.ppy.sh/beatmaps/5360296)
+
+***
+###Map 1 (picked by Chile)
+***
+
+####HD1 | [Luna Fozer - Overjoy * OVERDOSE!! &#91;OVERDOSE!!&#93;](https://osu.ppy.sh/beatmaps/5187418)
+
+2:26 — 143 BPM — 6.1★ — 1,269x
+
+| ***Spain*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[ESCRUPULILLO](https://osu.ppy.sh/users/18217876) | 1,047,038 | 99.66% | 1,269x | 0 |
+[A L E P H](https://osu.ppy.sh/users/6735738) | 996,861 | 98.51% | 1,257x | 1 |
+[BabyScylla](https://osu.ppy.sh/users/9869794) | 659,902 | 98.68% | 735x | 1 |
+[Palodex](https://osu.ppy.sh/users/11821902) | 489,470 | 96.50% | 576x | 1 |
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[siiphs](https://osu.ppy.sh/users/11786864) | 797,984 | 98.23% | 1,068x | 1 |
+[NO37](https://osu.ppy.sh/users/4653583) | 794,037 | 98.70% | 1,030x | 0 |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 703,731 | 98.53% | 891x | 0 |
+[alfiu](https://osu.ppy.sh/users/17724014) | 661,256 | 98.93% | 639x | 1 |
+
+Chile 2,957,008 - **3,193,271 Spain**
+
+Spain wins by 236,263
+
+Chile 0 - (1) Spain
+***
+###Map 2 (picked by Spain)
+***
+
+####NM2 | [RINYA - Kyokugen BON Odori &#91;Group Stage: Funyamorake (#16) vs Kuragefunya (#17)&#93;](https://osu.ppy.sh/beatmaps/5365982)
+
+2:08 — 230 BPM — 7.2★ — 1,511x
+
+| ***Spain*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[A L E P H](https://osu.ppy.sh/users/6735738) | 954,057 | 99.13% | 1,479x | 2 |
+[BabyScylla](https://osu.ppy.sh/users/9869794) | 933,096 | 97.87% | 1,504x | 0 |
+[ESCRUPULILLO](https://osu.ppy.sh/users/18217876) | 894,026 | 99.54% | 1,396x | 1 |
+[marbl](https://osu.ppy.sh/users/9895270) | 889,868 | 96.69% | 1,495x | 0 |
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[alfiu](https://osu.ppy.sh/users/17724014) | 943,900 | 99.10% | 1,474x | 3 |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 711,531 | 98.68% | 1,133x | 1 |
+[Hanayume](https://osu.ppy.sh/users/12211248) | 702,428 | 97.46% | 1,239x | 2 |
+[Lasseh](https://osu.ppy.sh/users/4881251) | 545,169 | 94.05% | 1,113x | 6 |
+
+Chile 2,903,028 - **3,671,047 Spain**
+
+Spain wins by 768,019
+
+Chile 0 - (2) Spain
+***
+###Map 3 (picked by Chile)
+***
+
+####NM5 | [Frog96 - Letter to the Black World &#91;the censoring of lifes&#93;](https://osu.ppy.sh/beatmaps/5359085)
+
+1:59 — 185 BPM — 6.2★ — 881x
+
+| ***Spain*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[towny1](https://osu.ppy.sh/users/16512684) | 834,864 | 96.78% | 836x | 0 |
+[marbl](https://osu.ppy.sh/users/9895270) | 801,781 | 98.74% | 764x | 2 |
+[BabyScylla](https://osu.ppy.sh/users/9869794) | 618,819 | 97.51% | 598x | 3 |
+[junamat](https://osu.ppy.sh/users/12296128) | 534,868 | 98.02% | 489x | 2 |
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 826,270 | 99.37% | 760x | 1 |
+[alfiu](https://osu.ppy.sh/users/17724014) | 740,110 | 99.08% | 685x | 1 |
+[siiphs](https://osu.ppy.sh/users/11786864) | 598,387 | 97.92% | 458x | 1 |
+[Hanayume](https://osu.ppy.sh/users/12211248) | 443,798 | 98.33% | 285x | 4 |
+
+Chile 2,608,565 - **2,790,332 Spain**
+
+Spain wins by 181,767
+
+Chile 0 - (3) Spain
+***
+###Map 4 (picked by Spain)
+***
+
+####FM2 | [EBIMAYO - NIGHTMARE INVITATION &#91;MASQUERADE&#93;](https://osu.ppy.sh/beatmaps/5364927)
+
+1:58 — 195 BPM — 6.7★ — 1,271x
+
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[alfiu](https://osu.ppy.sh/users/17724014) | 982,375 | 99.52% | 1,270x | 0 |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 976,345 | 99.24% | 1,270x | 0 |
+[NO37](https://osu.ppy.sh/users/4653583) +HD | 716,861 | 99.09% | 880x | 2 |
+[Lasseh](https://osu.ppy.sh/users/4881251) +HR | 315,225 | 93.40% | 391x | 22 |
+| ***Spain*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[A L E P H](https://osu.ppy.sh/users/6735738) +HD | 1,043,226 | 99.59% | 1,267x | 0 |
+[towny1](https://osu.ppy.sh/users/16512684) | 569,929 | 98.07% | 711x | 9 |
+[BabyScylla](https://osu.ppy.sh/users/9869794) +HDHR | 560,295 | 95.38% | 743x | 23 |
+[marbl](https://osu.ppy.sh/users/9895270) | 541,928 | 97.97% | 748x | 12 |
+
+**Chile 2,990,806** - 2,715,378 Spain
+
+Chile wins by 275,428
+
+Chile (1) - 3 Spain
+***
+###Map 5 (picked by Chile)
+***
+
+####HD2 | [I love you orchestra - Coconut Love &#91;Nucifera&#93;](https://osu.ppy.sh/beatmaps/3400091)
+
+2:26 — 180 BPM — 5.9★ — 1,111x
+
+| ***Spain*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[marbl](https://osu.ppy.sh/users/9895270) | 1,020,864 | 98.96% | 1,110x | 0 |
+[A L E P H](https://osu.ppy.sh/users/6735738) | 744,637 | 97.91% | 892x | 2 |
+[junamat](https://osu.ppy.sh/users/12296128) | 408,599 | 97.32% | 313x | 5 |
+[Palodex](https://osu.ppy.sh/users/11821902) | 382,540 | 96.11% | 325x | 6 |
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[siiphs](https://osu.ppy.sh/users/11786864) | 745,204 | 98.48% | 876x | 2 |
+[alfiu](https://osu.ppy.sh/users/17724014) | 635,931 | 98.54% | 550x | 3 |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 492,173 | 97.11% | 502x | 3 |
+[NO37](https://osu.ppy.sh/users/4653583) | 451,922 | 97.85% | 414x | 2 |
+
+Chile 2,325,230 - **2,556,640 Spain**
+
+Spain wins by 231,410
+
+Chile 1 - (4) Spain
+***
+###Map 6 (picked by Spain)
+***
+
+####NM3 | [VESPERBELL - Chocolate Disco &#91;Bittersweet&#93;](https://osu.ppy.sh/beatmaps/2957016)
+
+3:32 — 128 BPM — 4.3★ — 1,395x
+
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Intercambing](https://osu.ppy.sh/users/2546001) | 949,429 | 98.61% | 1,393x | 0 |
+[siiphs](https://osu.ppy.sh/users/11786864) | 722,438 | 96.64% | 1,185x | 1 |
+[NO37](https://osu.ppy.sh/users/4653583) | 716,015 | 99.61% | 1,019x | 1 |
+[alfiu](https://osu.ppy.sh/users/17724014) | 420,058 | 97.20% | 469x | 6 |
+| ***Spain*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Palodex](https://osu.ppy.sh/users/11821902) | 516,783 | 96.17% | 891x | 4 |
+[marbl](https://osu.ppy.sh/users/9895270) | 502,432 | 98.64% | 672x | 2 |
+[A L E P H](https://osu.ppy.sh/users/6735738) | 444,941 | 97.35% | 618x | 4 |
+[junamat](https://osu.ppy.sh/users/12296128) | 376,624 | 95.45% | 549x | 4 |
+
+**Chile 2,807,940** - 1,840,780 Spain
+
+Chile wins by 967,160
+
+Chile (2) - 4 Spain
+***
+###Map 7 (picked by Chile)
+***
+
+####NM4 | [Vorso - Heliosphere &#91;Coronal Mass Ejection&#93;](https://osu.ppy.sh/beatmaps/5365985)
+
+2:25 — 172 BPM — 5.8★ — 1,175x
+
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[alfiu](https://osu.ppy.sh/users/17724014) | 975,228 | 99.34% | 1,172x | 0 |
+[Lasseh](https://osu.ppy.sh/users/4881251) | 851,589 | 95.62% | 1,151x | 0 |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 758,011 | 98.43% | 978x | 0 |
+[siiphs](https://osu.ppy.sh/users/11786864) | 648,671 | 97.10% | 891x | 1 |
+| ***Spain*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Palodex](https://osu.ppy.sh/users/11821902) | 819,608 | 96.12% | 1,111x | 1 |
+[A L E P H](https://osu.ppy.sh/users/6735738) | 708,148 | 98.79% | 894x | 0 |
+[&#91;dekori&#93;](https://osu.ppy.sh/users/17465075) | 569,391 | 96.79% | 699x | 0 |
+[ESCRUPULILLO](https://osu.ppy.sh/users/18217876) | 545,446 | 96.06% | 606x | 0 |
+
+**Chile 3,233,499** - 2,642,593 Spain
+
+Chile wins by 590,906
+
+Chile (3) - 4 Spain
+***
+###Map 8 (picked by Spain)
+***
+
+####DT3 | [ZANI - Glass &#91;oh&#93;](https://osu.ppy.sh/beatmaps/5364986)
+
+2:07 — 141 BPM — 6.6★ — 963x
+
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Intercambing](https://osu.ppy.sh/users/2546001) | 1,185,070 | 99.47% | 963x | 0 |
+[Hanayume](https://osu.ppy.sh/users/12211248) | 1,176,343 | 99.30% | 961x | 0 |
+[xXChokgamerXx](https://osu.ppy.sh/users/7748891) | 816,853 | 97.68% | 747x | 3 |
+[alfiu](https://osu.ppy.sh/users/17724014) | 692,491 | 99.39% | 514x | 2 |
+| ***Spain*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[A L E P H](https://osu.ppy.sh/users/6735738) | 870,533 | 98.55% | 751x | 1 |
+[ESCRUPULILLO](https://osu.ppy.sh/users/18217876) | 763,776 | 98.60% | 585x | 4 |
+[towny1](https://osu.ppy.sh/users/16512684) | 650,161 | 97.99% | 509x | 1 |
+[Palodex](https://osu.ppy.sh/users/11821902) | 494,560 | 98.03% | 300x | 2 |
+
+**Chile 3,870,757** - 2,779,030 Spain
+
+Chile wins by 1,091,727
+
+Chile (4) - 4 Spain
+***
+###Map 9 (Tiebreaker)
+***
+
+####TB | [Hayakore Tatsumi - Destin Victorica (Harddance Mix) (Nightcore Mix) &#91;Nostalgia&#93;](https://osu.ppy.sh/beatmaps/4966899)
+
+6:00 — 200 BPM — 7.1★ — 3,448x
+
+| ***Spain*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[A L E P H](https://osu.ppy.sh/users/6735738) | 682,729 | 99.73% | 2,129x | 1 |
+[ESCRUPULILLO](https://osu.ppy.sh/users/18217876) | 662,301 | 99.44% | 2,034x | 2 |
+[BabyScylla](https://osu.ppy.sh/users/9869794) +HD | 497,153 | 98.88% | 1,417x | 15 |
+[marbl](https://osu.ppy.sh/users/9895270) | 388,691 | 98.31% | 879x | 11 |
+| ***Chile*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Intercambing](https://osu.ppy.sh/users/2546001) | 724,297 | 99.62% | 2,527x | 4 |
+[alfiu](https://osu.ppy.sh/users/17724014) | 504,451 | 99.66% | 1,243x | 3 |
+[Lasseh](https://osu.ppy.sh/users/4881251) | 444,894 | 98.18% | 1,253x | 4 |
+[siiphs](https://osu.ppy.sh/users/11786864) +HD | 409,454 | 98.37% | 835x | 18 |
+
+Chile 2,083,096 - **2,230,874 Spain**
+
+Spain wins by 147,778
+
+Chile 4 - **(5) Spain**

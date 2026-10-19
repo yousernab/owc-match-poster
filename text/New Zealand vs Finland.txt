@@ -1,0 +1,218 @@
+## **New Zealand 5** - 2 Finland
+
+**Group B Standings:**
+
+| **Team** | **W** | **L** | **PD** |
+|:-:|:-:|:-:|:-:|
+| ***New Zealand*** (#16) | 1 | 0 | +3 |
+| ***Romania*** (#12) | 0 | 0 | 0 |
+| ***Indonesia*** (#18) | 0 | 0 | 0 |
+| ***Finland*** (#22) | 0 | 1 | -3 |
+
+
+^(Top 2 advance to Winners Round of 16)  
+^(Bottom 2 advance to Losers Round of 16)
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119709590) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***New Zealand*** |#16| ***Finland*** |#22|
+|:-:|:-:|:-:|:-:|
+| [Kyujin](https://osu.ppy.sh/users/15293080) | 1.826 | [Amasetic](https://osu.ppy.sh/users/11375251) | 1.572 |
+| [5aiyku](https://osu.ppy.sh/users/11141578) | 1.614 | [AllyrD](https://osu.ppy.sh/users/9561644) | 1.418 |
+| [Saiyku](https://osu.ppy.sh/users/13767572) | 1.549 | [Kalanluu](https://osu.ppy.sh/users/2035254) | 1.360 |
+| [ozbert](https://osu.ppy.sh/users/23179637) | 1.304 | [Isak-](https://osu.ppy.sh/users/8702650) | 1.273 |
+| [pii](https://osu.ppy.sh/users/13588932) | 0.838 | [savilju](https://osu.ppy.sh/users/8059468) | 1.183 |
+| [HaSappy](https://osu.ppy.sh/users/11518376) | 0.670 | [vaadin peukkua](https://osu.ppy.sh/users/4959454) | 1.120 |
+| [silent hill](https://osu.ppy.sh/users/11547643) | 0.291 | [Xepei](https://osu.ppy.sh/users/11479551) | 1.099 |
+| [she gon pay me](https://osu.ppy.sh/users/11172360) | - | [Mike Tyson](https://osu.ppy.sh/users/14764185) | 0.573 |
+***
+**Bans:**
+
+*New Zealand*
+
+NM3 | [VESPERBELL - Chocolate Disco &#91;Bittersweet&#93;](https://osu.ppy.sh/beatmaps/2957016)
+
+*Finland*
+
+HR2 | [MEMODEMO - Showoff Showdown &#91;Disco Deluxe (OWC Ver.)&#93;](https://osu.ppy.sh/beatmaps/5365995)
+
+***
+###Map 1 (picked by Finland)
+***
+
+####HD1 | [Luna Fozer - Overjoy * OVERDOSE!! &#91;OVERDOSE!!&#93;](https://osu.ppy.sh/beatmaps/5187418)
+
+2:26 — 143 BPM — 6.1★ — 1,269x
+
+| ***New Zealand*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[5aiyku](https://osu.ppy.sh/users/11141578) | 870,702 | 99.27% | 1,111x | 1 |
+[Kyujin](https://osu.ppy.sh/users/15293080) | 651,072 | 98.76% | 798x | 1 |
+[ozbert](https://osu.ppy.sh/users/23179637) | 611,479 | 97.14% | 722x | 1 |
+[Saiyku](https://osu.ppy.sh/users/13767572) | 463,312 | 97.48% | 460x | 1 |
+| ***Finland*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Amasetic](https://osu.ppy.sh/users/11375251) | 837,170 | 97.65% | 1,134x | 0 |
+[AllyrD](https://osu.ppy.sh/users/9561644) | 634,251 | 98.16% | 696x | 0 |
+[savilju](https://osu.ppy.sh/users/8059468) | 608,474 | 98.40% | 730x | 1 |
+[Kalanluu](https://osu.ppy.sh/users/2035254) | 485,196 | 97.67% | 525x | 3 |
+
+**New Zealand 2,596,565** - 2,565,091 Finland
+
+New Zealand wins by 31,474
+
+New Zealand (1) - 0 Finland
+***
+###Map 2 (picked by New Zealand)
+***
+
+####NM2 | [RINYA - Kyokugen BON Odori &#91;Group Stage: Funyamorake (#16) vs Kuragefunya (#17)&#93;](https://osu.ppy.sh/beatmaps/5365982)
+
+2:08 — 230 BPM — 7.2★ — 1,511x
+
+| ***Finland*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Amasetic](https://osu.ppy.sh/users/11375251) | 1,000,560 | 99.82% | 1,509x | 0 |
+[vaadin peukkua](https://osu.ppy.sh/users/4959454) | 930,646 | 97.84% | 1,505x | 0 |
+[Xepei](https://osu.ppy.sh/users/11479551) | 744,187 | 98.94% | 1,209x | 1 |
+[Isak-](https://osu.ppy.sh/users/8702650) | 676,419 | 98.26% | 1,121x | 1 |
+| ***New Zealand*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Kyujin](https://osu.ppy.sh/users/15293080) | 984,898 | 99.39% | 1,509x | 0 |
+[Saiyku](https://osu.ppy.sh/users/13767572) | 964,415 | 98.71% | 1,510x | 0 |
+[5aiyku](https://osu.ppy.sh/users/11141578) | 959,749 | 98.71% | 1,506x | 0 |
+[silent hill](https://osu.ppy.sh/users/11547643) | 360,723 | 97.21% | 416x | 7 |
+
+New Zealand 3,269,785 - **3,351,812 Finland**
+
+Finland wins by 82,027
+
+New Zealand 1 - (1) Finland
+***
+###Map 3 (picked by Finland)
+***
+
+####HD2 | [I love you orchestra - Coconut Love &#91;Nucifera&#93;](https://osu.ppy.sh/beatmaps/3400091)
+
+2:26 — 180 BPM — 5.9★ — 1,111x
+
+| ***Finland*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Kalanluu](https://osu.ppy.sh/users/2035254) | 717,147 | 98.30% | 814x | 1 |
+[AllyrD](https://osu.ppy.sh/users/9561644) | 668,161 | 99.17% | 601x | 1 |
+[savilju](https://osu.ppy.sh/users/8059468) | 576,824 | 98.61% | 526x | 1 |
+[Isak-](https://osu.ppy.sh/users/8702650) | 385,326 | 97.08% | 310x | 10 |
+| ***New Zealand*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[pii](https://osu.ppy.sh/users/13588932) | 556,218 | 97.17% | 593x | 0 |
+[Kyujin](https://osu.ppy.sh/users/15293080) | 511,726 | 95.32% | 557x | 5 |
+[ozbert](https://osu.ppy.sh/users/23179637) | 444,468 | 92.45% | 598x | 1 |
+[5aiyku](https://osu.ppy.sh/users/11141578) | 366,960 | 96.67% | 274x | 7 |
+
+New Zealand 1,879,372 - **2,347,458 Finland**
+
+Finland wins by 468,086
+
+New Zealand 1 - (2) Finland
+***
+###Map 4 (picked by New Zealand)
+***
+
+####FM2 | [EBIMAYO - NIGHTMARE INVITATION &#91;MASQUERADE&#93;](https://osu.ppy.sh/beatmaps/5364927)
+
+1:58 — 195 BPM — 6.7★ — 1,271x
+
+| ***New Zealand*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Saiyku](https://osu.ppy.sh/users/13767572) +HR | 1,066,945 | 99.16% | 1,269x | 0 |
+[5aiyku](https://osu.ppy.sh/users/11141578) +HD | 1,039,641 | 99.52% | 1,269x | 0 |
+[Kyujin](https://osu.ppy.sh/users/15293080) | 1,001,000 | 100.00% | 1,271x | 0 |
+[ozbert](https://osu.ppy.sh/users/23179637) +HD | 713,756 | 98.36% | 947x | 7 |
+| ***Finland*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Amasetic](https://osu.ppy.sh/users/11375251) | 985,315 | 99.59% | 1,270x | 0 |
+[vaadin peukkua](https://osu.ppy.sh/users/4959454) | 984,674 | 99.59% | 1,269x | 0 |
+[Isak-](https://osu.ppy.sh/users/8702650) +HD | 815,250 | 98.38% | 1,084x | 7 |
+[Xepei](https://osu.ppy.sh/users/11479551) +HR | 456,761 | 95.52% | 522x | 24 |
+
+**New Zealand 3,821,342** - 3,242,000 Finland
+
+New Zealand wins by 579,342
+
+New Zealand (2) - 2 Finland
+***
+###Map 5 (picked by Finland)
+***
+
+####FM3 | [nobodyknows+ - Imaike Samba &#91;Expert&#93;](https://osu.ppy.sh/beatmaps/4769759)
+
+4:21 — 125 BPM — 6.6★ — 1,936x
+
+| ***New Zealand*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[ozbert](https://osu.ppy.sh/users/23179637) +HD | 1,052,265 | 99.68% | 1,936x | 0 |
+[Kyujin](https://osu.ppy.sh/users/15293080) | 990,937 | 99.68% | 1,932x | 0 |
+[Saiyku](https://osu.ppy.sh/users/13767572) +HR | 721,565 | 99.09% | 1,260x | 0 |
+[pii](https://osu.ppy.sh/users/13588932) | 482,317 | 98.89% | 734x | 3 |
+| ***Finland*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[AllyrD](https://osu.ppy.sh/users/9561644) | 1,002,900 | 100.00% | 1,936x | 0 |
+[savilju](https://osu.ppy.sh/users/8059468) | 714,379 | 99.84% | 1,423x | 2 |
+[Isak-](https://osu.ppy.sh/users/8702650) +HD | 708,350 | 99.14% | 1,376x | 2 |
+[Xepei](https://osu.ppy.sh/users/11479551) +HR | 516,427 | 97.98% | 806x | 2 |
+
+**New Zealand 3,247,084** - 2,942,056 Finland
+
+New Zealand wins by 305,028
+
+New Zealand (3) - 2 Finland
+***
+###Map 6 (picked by New Zealand)
+***
+
+####FM1 | [PSYQUI - Eyes on me feat. Such &#91;Shock and Awe (ar 9.2)&#93;](https://osu.ppy.sh/beatmaps/5360296)
+
+1:45 — 168 BPM — 6.2★ — 879x
+
+| ***New Zealand*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Kyujin](https://osu.ppy.sh/users/15293080) +HD | 993,662 | 98.20% | 877x | 0 |
+[5aiyku](https://osu.ppy.sh/users/11141578) | 828,963 | 98.63% | 787x | 1 |
+[Saiyku](https://osu.ppy.sh/users/13767572) +HR | 723,246 | 98.34% | 610x | 1 |
+[ozbert](https://osu.ppy.sh/users/23179637) +HDHR | 432,661 | 94.70% | 322x | 3 |
+| ***Finland*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Kalanluu](https://osu.ppy.sh/users/2035254) +HD | 921,205 | 98.54% | 825x | 1 |
+[Isak-](https://osu.ppy.sh/users/8702650) | 759,035 | 97.73% | 754x | 0 |
+[Mike Tyson](https://osu.ppy.sh/users/14764185) | 614,071 | 98.40% | 457x | 1 |
+[Amasetic](https://osu.ppy.sh/users/11375251) +HR | 440,207 | 95.90% | 326x | 13 |
+
+**New Zealand 2,978,532** - 2,734,518 Finland
+
+New Zealand wins by 244,014
+
+New Zealand (4) - 2 Finland
+***
+###Map 7 (picked by Finland)
+***
+
+####DT2 | [Denkishiki Karen Ongaku Shuudan - Elder Things &#91;Insane&#93;](https://osu.ppy.sh/beatmaps/3863677)
+
+2:28 — 255 BPM — 6.8★ — 1,813x
+
+| ***New Zealand*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Kyujin](https://osu.ppy.sh/users/15293080) | 1,147,289 | 98.80% | 1,810x | 0 |
+[Saiyku](https://osu.ppy.sh/users/13767572) | 1,067,168 | 96.61% | 1,813x | 0 |
+[HaSappy](https://osu.ppy.sh/users/11518376) | 926,323 | 98.24% | 1,555x | 0 |
+[5aiyku](https://osu.ppy.sh/users/11141578) | 842,202 | 98.05% | 1,396x | 0 |
+| ***Finland*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Amasetic](https://osu.ppy.sh/users/11375251) | 1,163,409 | 99.14% | 1,812x | 0 |
+[Xepei](https://osu.ppy.sh/users/11479551) | 1,119,319 | 98.07% | 1,813x | 0 |
+[Isak-](https://osu.ppy.sh/users/8702650) | 595,290 | 96.28% | 1,093x | 0 |
+[vaadin peukkua](https://osu.ppy.sh/users/4959454) | 516,382 | 96.12% | 680x | 1 |
+
+**New Zealand 3,982,982** - 3,394,400 Finland
+
+New Zealand wins by 588,582
+
+**New Zealand (5)** - 2 Finland

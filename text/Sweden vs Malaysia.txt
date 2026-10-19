@@ -1,0 +1,234 @@
+## **Sweden 5** - 3 Malaysia
+
+Sweden will face New Zealand in Losers Round 2.
+
+Malaysia has been eliminated in 25th-32nd place.
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119845095) | [Bracket](https://challonge.com/OWC2025) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***Sweden*** |#19| ***Malaysia*** |#33|
+|:-:|:-:|:-:|:-:|
+| [scylla](https://osu.ppy.sh/users/9405745) | 2.006 | [Rampax](https://osu.ppy.sh/users/3995630) | 1.623 |
+| [Lightningfox](https://osu.ppy.sh/users/15701343) | 1.690 | [Harumi Ena](https://osu.ppy.sh/users/16436446) | 1.373 |
+| [Andros](https://osu.ppy.sh/users/9072586) | 1.640 | [mabayu](https://osu.ppy.sh/users/11918602) | 1.209 |
+| [trumpatino69](https://osu.ppy.sh/users/10903510) | 1.283 | [Chibi Maruko](https://osu.ppy.sh/users/5585377) | 1.157 |
+| [Fejlan](https://osu.ppy.sh/users/8150535) | 1.276 | [AHotDawg](https://osu.ppy.sh/users/15271985) | 1.125 |
+| [Guyra_](https://osu.ppy.sh/users/14959508) | 1.124 | [n0 head](https://osu.ppy.sh/users/14067834) | 1.121 |
+| [melwem](https://osu.ppy.sh/users/10349559) | 1.123 | [Chiyuu](https://osu.ppy.sh/users/8226107) | 0.438 |
+| [good grape](https://osu.ppy.sh/users/11749569) | 0.956 | [mint breeze](https://osu.ppy.sh/users/10343292) | - |
+***
+**Bans:**
+
+*Sweden*
+
+DT1 | [KOTOKO - Oboetete Ii yo &#91;Insane&#93;](https://osu.ppy.sh/beatmaps/163836)
+
+*Malaysia*
+
+HD2 | [Minami no Minami - KAFU-chan no Curry Udon Kyousoukyoku &#91;aaaaAAAAAaaa&#93;](https://osu.ppy.sh/beatmaps/4378380)
+
+***
+###Map 1 (picked by Sweden)
+***
+
+####NM5 | [gladde paling - vleermuis &#91;gelukkige aal&#93;](https://osu.ppy.sh/beatmaps/5386813)
+
+1:38 — 180 BPM — 6.9★ — 822x
+
+| ***Sweden*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Lightningfox](https://osu.ppy.sh/users/15701343) | 587,684 | 92.83% | 661x | 3 |
+[scylla](https://osu.ppy.sh/users/9405745) | 507,004 | 92.94% | 550x | 2 |
+[Fejlan](https://osu.ppy.sh/users/8150535) | 303,403 | 92.65% | 261x | 5 |
+[good grape](https://osu.ppy.sh/users/11749569) | 223,250 | 90.04% | 221x | 6 |
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Rampax](https://osu.ppy.sh/users/3995630) | 337,189 | 87.96% | 466x | 5 |
+[AHotDawg](https://osu.ppy.sh/users/15271985) | 244,816 | 85.13% | 360x | 2 |
+[mabayu](https://osu.ppy.sh/users/11918602) | 242,995 | 88.75% | 236x | 1 |
+[Chiyuu](https://osu.ppy.sh/users/8226107) | 218,932 | 90.36% | 211x | 9 |
+
+**Sweden 1,621,341** - 1,043,932 Malaysia
+
+Sweden wins by 577,409
+
+Sweden (1) - 0 Malaysia
+***
+###Map 2 (picked by Malaysia)
+***
+
+####NM2 | [Hideous Divinity - The Deaden Room &#91;Precognition of Blood&#93;](https://osu.ppy.sh/beatmaps/4984190)
+
+3:26 — 256 BPM — 7.4★ — 1,830x
+
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Rampax](https://osu.ppy.sh/users/3995630) | 910,707 | 97.05% | 1,828x | 0 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 813,663 | 95.52% | 1,742x | 1 |
+[n0 head](https://osu.ppy.sh/users/14067834) | 386,282 | 95.34% | 651x | 1 |
+[mabayu](https://osu.ppy.sh/users/11918602) | 333,357 | 94.47% | 513x | 5 |
+| ***Sweden*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[trumpatino69](https://osu.ppy.sh/users/10903510) | 761,307 | 98.15% | 1,532x | 2 |
+[good grape](https://osu.ppy.sh/users/11749569) | 411,284 | 96.57% | 591x | 3 |
+[scylla](https://osu.ppy.sh/users/9405745) | 322,583 | 92.20% | 700x | 4 |
+[Andros](https://osu.ppy.sh/users/9072586) | 312,471 | 93.38% | 497x | 8 |
+
+Sweden 1,807,645 - **2,444,009 Malaysia**
+
+Malaysia wins by 636,364
+
+Sweden 1 - (1) Malaysia
+***
+###Map 3 (picked by Sweden)
+***
+
+####FM1 | [inabakumori - NON-USE &#91;owc&#93;](https://osu.ppy.sh/beatmaps/5386902)
+
+3:29 — 220 BPM — 6.6★ — 1,631x
+
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Chibi Maruko](https://osu.ppy.sh/users/5585377) | 806,263 | 97.67% | 1,481x | 2 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 570,649 | 98.07% | 1,009x | 5 |
+[Rampax](https://osu.ppy.sh/users/3995630) +HR | 542,118 | 97.84% | 792x | 3 |
+[mabayu](https://osu.ppy.sh/users/11918602) +HD | 516,102 | 97.74% | 687x | 4 |
+| ***Sweden*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Guyra_](https://osu.ppy.sh/users/14959508) | 608,896 | 98.37% | 1,098x | 3 |
+[Fejlan](https://osu.ppy.sh/users/8150535) | 604,113 | 98.98% | 823x | 1 |
+[scylla](https://osu.ppy.sh/users/9405745) +HD | 488,782 | 98.14% | 632x | 7 |
+[melwem](https://osu.ppy.sh/users/10349559) +HR | 447,995 | 97.63% | 691x | 8 |
+
+Sweden 2,149,786 - **2,435,132 Malaysia**
+
+Malaysia wins by 285,346
+
+Sweden 1 - (2) Malaysia
+***
+###Map 4 (picked by Malaysia)
+***
+
+####DT2 | [senya - Tokuiten no Kaibutsuteki Kanjou &#91;Satellite&#93;](https://osu.ppy.sh/beatmaps/5386832)
+
+1:53 — 234 BPM — 7.3★ — 1,291x
+
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[n0 head](https://osu.ppy.sh/users/14067834) | 1,119,157 | 98.18% | 1,284x | 0 |
+[Rampax](https://osu.ppy.sh/users/3995630) | 702,623 | 96.77% | 884x | 2 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 631,583 | 94.86% | 881x | 4 |
+[mabayu](https://osu.ppy.sh/users/11918602) | 603,473 | 94.64% | 847x | 4 |
+| ***Sweden*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[trumpatino69](https://osu.ppy.sh/users/10903510) | 836,192 | 98.89% | 937x | 1 |
+[melwem](https://osu.ppy.sh/users/10349559) | 677,967 | 95.82% | 825x | 1 |
+[Andros](https://osu.ppy.sh/users/9072586) | 670,526 | 96.40% | 830x | 4 |
+[scylla](https://osu.ppy.sh/users/9405745) | 665,028 | 96.29% | 689x | 1 |
+
+Sweden 2,849,713 - **3,056,836 Malaysia**
+
+Malaysia wins by 207,123
+
+Sweden 1 - (3) Malaysia
+***
+###Map 5 (picked by Sweden)
+***
+
+####FM2 | [Magdalena Bay - Image &#91;mirage&#93;](https://osu.ppy.sh/beatmaps/5386826)
+
+3:21 — 128 BPM — 5.9★ — 1,417x
+
+| ***Sweden*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[scylla](https://osu.ppy.sh/users/9405745) +HD | 826,776 | 98.71% | 1,149x | 1 |
+[Lightningfox](https://osu.ppy.sh/users/15701343) | 747,120 | 97.31% | 1,163x | 1 |
+[Andros](https://osu.ppy.sh/users/9072586) +HR | 598,776 | 99.05% | 665x | 2 |
+[Fejlan](https://osu.ppy.sh/users/8150535) | 470,415 | 98.26% | 624x | 3 |
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[mabayu](https://osu.ppy.sh/users/11918602) | 506,942 | 95.09% | 820x | 3 |
+[Rampax](https://osu.ppy.sh/users/3995630) +HR | 422,971 | 97.53% | 358x | 5 |
+[Chibi Maruko](https://osu.ppy.sh/users/5585377) | 393,543 | 96.81% | 554x | 5 |
+[AHotDawg](https://osu.ppy.sh/users/15271985) +HD | 374,563 | 93.73% | 585x | 6 |
+
+**Sweden 2,643,087** - 1,698,019 Malaysia
+
+Sweden wins by 945,068
+
+Sweden (2) - 3 Malaysia
+***
+###Map 6 (picked by Malaysia)
+***
+
+####NM1 | [DIALOGUE+ - Daibouken o Yoroshiku &#91;Jet to the Future&#93;](https://osu.ppy.sh/beatmaps/5386789)
+
+3:45 — 208 BPM — 7.1★ — 1,611x
+
+| ***Sweden*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[scylla](https://osu.ppy.sh/users/9405745) | 1,000,949 | 99.74% | 1,611x | 0 |
+[Andros](https://osu.ppy.sh/users/9072586) | 895,458 | 99.08% | 1,510x | 5 |
+[melwem](https://osu.ppy.sh/users/10349559) | 674,763 | 99.81% | 1,056x | 1 |
+[Guyra_](https://osu.ppy.sh/users/14959508) | 570,433 | 98.94% | 866x | 0 |
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[mabayu](https://osu.ppy.sh/users/11918602) | 470,088 | 98.42% | 646x | 4 |
+[Rampax](https://osu.ppy.sh/users/3995630) | 466,665 | 98.47% | 552x | 6 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 434,482 | 98.77% | 547x | 5 |
+[AHotDawg](https://osu.ppy.sh/users/15271985) | 360,073 | 96.59% | 564x | 8 |
+
+**Sweden 3,141,603** - 1,731,308 Malaysia
+
+Sweden wins by 1,410,295
+
+Sweden (3) - 3 Malaysia
+***
+###Map 7 (picked by Sweden)
+***
+
+####FM3 | [masarada - Liar Dancer &#91;DANSA&#93;](https://osu.ppy.sh/beatmaps/5290020)
+
+3:26 — 170 BPM — 6.5★ — 1,757x
+
+| ***Sweden*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[scylla](https://osu.ppy.sh/users/9405745) +HD | 1,030,003 | 99.29% | 1,751x | 0 |
+[Andros](https://osu.ppy.sh/users/9072586) +HR | 636,912 | 96.92% | 1,034x | 1 |
+[Lightningfox](https://osu.ppy.sh/users/15701343) | 603,734 | 98.00% | 998x | 1 |
+[Guyra_](https://osu.ppy.sh/users/14959508) | 451,868 | 97.12% | 729x | 2 |
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[AHotDawg](https://osu.ppy.sh/users/15271985) +HD | 720,468 | 95.74% | 1,467x | 4 |
+[mabayu](https://osu.ppy.sh/users/11918602) | 366,440 | 96.49% | 442x | 2 |
+[Rampax](https://osu.ppy.sh/users/3995630) +HR | 326,087 | 93.89% | 462x | 13 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 315,110 | 96.25% | 466x | 7 |
+
+**Sweden 2,722,517** - 1,728,105 Malaysia
+
+Sweden wins by 994,412
+
+Sweden (4) - 3 Malaysia
+***
+###Map 8 (picked by Malaysia)
+***
+
+####DT3 | [Tyler, The Creator - Ring Ring Ring &#91;Voicemail&#93;](https://osu.ppy.sh/beatmaps/5386835)
+
+2:09 — 179 BPM — 6.9★ — 1,094x
+
+| ***Sweden*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Andros](https://osu.ppy.sh/users/9072586) | 641,987 | 95.65% | 542x | 1 |
+[scylla](https://osu.ppy.sh/users/9405745) | 539,986 | 96.10% | 488x | 2 |
+[Fejlan](https://osu.ppy.sh/users/8150535) | 475,842 | 94.46% | 548x | 3 |
+[good grape](https://osu.ppy.sh/users/11749569) | 451,686 | 97.59% | 232x | 4 |
+| ***Malaysia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Rampax](https://osu.ppy.sh/users/3995630) | 650,309 | 95.23% | 722x | 1 |
+[Harumi Ena](https://osu.ppy.sh/users/16436446) | 396,892 | 92.35% | 356x | 0 |
+[Chibi Maruko](https://osu.ppy.sh/users/5585377) | 363,536 | 93.79% | 283x | 3 |
+[AHotDawg](https://osu.ppy.sh/users/15271985) | 298,927 | 89.94% | 275x | 4 |
+
+**Sweden 2,109,501** - 1,709,664 Malaysia
+
+Sweden wins by 399,837
+
+**Sweden (5)** - 3 Malaysia

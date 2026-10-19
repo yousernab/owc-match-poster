@@ -1,0 +1,219 @@
+## **Argentina 5** - 2 Belgium
+
+**Group F Standings:**
+
+| **Team** | **W** | **L** | **PD** |
+|:-:|:-:|:-:|:-:|
+| ***Argentina*** (#30) | 1 | 0 | +3 |
+| ***Türkiye*** (#25) | 0 | 0 | 0 |
+| ***Uruguay*** (#34) | 0 | 0 | 0 |
+| ***Belgium*** (#38) | 0 | 1 | -3 |
+
+
+^(Top 2 advance to Losers Round of 16)  
+^(Bottom 2 are eliminated)
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119712013) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***Argentina*** |#30| ***Belgium*** |#38|
+|:-:|:-:|:-:|:-:|
+| [Pipipupu997](https://osu.ppy.sh/users/20120615) | 1.836 | [hexi](https://osu.ppy.sh/users/10760701) | 1.412 |
+| [Bomilk](https://osu.ppy.sh/users/7081596) | 1.779 | [Hanori](https://osu.ppy.sh/users/7078544) | 1.383 |
+| [viciobylike](https://osu.ppy.sh/users/18922516) | 1.543 | [MRB](https://osu.ppy.sh/users/11234975) | 1.356 |
+| [smashcae](https://osu.ppy.sh/users/10459580) | 1.159 | [Mornis](https://osu.ppy.sh/users/6479616) | 1.314 |
+| [Amuro](https://osu.ppy.sh/users/7119659) | 1.089 | [5joshi](https://osu.ppy.sh/users/4279650) | 1.230 |
+| [Penguo](https://osu.ppy.sh/users/4389490) | 0.958 | [Vinnie](https://osu.ppy.sh/users/8509247) | 0.923 |
+| [Tofy](https://osu.ppy.sh/users/11113067) | 0.818 | [&#91; Unmei &#93;](https://osu.ppy.sh/users/10552613) | 0.537 |
+| [Seiong](https://osu.ppy.sh/users/7341471) | - | [meramin](https://osu.ppy.sh/users/13539892) | 0.167 |
+||| [[ Unmei ]](https://osu.ppy.sh/users/10552613) | - |
+***
+**Bans:**
+
+*Argentina*
+
+NM1 | [mor ve otesi - Forsa &#91;ft. Skytuna&#93;](https://osu.ppy.sh/beatmaps/3535240)
+
+*Belgium*
+
+DT2 | [Denkishiki Karen Ongaku Shuudan - Elder Things &#91;Insane&#93;](https://osu.ppy.sh/beatmaps/3863677)
+
+***
+###Map 1 (picked by Argentina)
+***
+
+####NM2 | [RINYA - Kyokugen BON Odori &#91;Group Stage: Funyamorake (#16) vs Kuragefunya (#17)&#93;](https://osu.ppy.sh/beatmaps/5365982)
+
+2:08 — 230 BPM — 7.2★ — 1,511x
+
+| ***Argentina*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[viciobylike](https://osu.ppy.sh/users/18922516) | 984,865 | 99.45% | 1,509x | 0 |
+[Pipipupu997](https://osu.ppy.sh/users/20120615) | 922,283 | 97.61% | 1,509x | 0 |
+[Tofy](https://osu.ppy.sh/users/11113067) | 852,984 | 97.47% | 1,431x | 0 |
+[Bomilk](https://osu.ppy.sh/users/7081596) | 604,743 | 98.22% | 910x | 2 |
+| ***Belgium*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[hexi](https://osu.ppy.sh/users/10760701) | 964,456 | 98.78% | 1,509x | 0 |
+[Mornis](https://osu.ppy.sh/users/6479616) | 548,134 | 99.51% | 705x | 2 |
+[Hanori](https://osu.ppy.sh/users/7078544) | 507,321 | 91.92% | 1,126x | 24 |
+[meramin](https://osu.ppy.sh/users/13539892) | 174,324 | 88.15% | 316x | 8 |
+
+**Argentina 3,364,875** - 2,194,235 Belgium
+
+Argentina wins by 1,170,640
+
+Argentina (1) - 0 Belgium
+***
+###Map 2 (picked by Belgium)
+***
+
+####HD2 | [I love you orchestra - Coconut Love &#91;Nucifera&#93;](https://osu.ppy.sh/beatmaps/3400091)
+
+2:26 — 180 BPM — 5.9★ — 1,111x
+
+| ***Argentina*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Pipipupu997](https://osu.ppy.sh/users/20120615) | 546,755 | 98.11% | 561x | 2 |
+[smashcae](https://osu.ppy.sh/users/10459580) | 496,846 | 96.91% | 467x | 2 |
+[Penguo](https://osu.ppy.sh/users/4389490) | 462,862 | 96.41% | 465x | 3 |
+[Bomilk](https://osu.ppy.sh/users/7081596) | 441,665 | 97.15% | 403x | 3 |
+| ***Belgium*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[5joshi](https://osu.ppy.sh/users/4279650) | 560,733 | 98.52% | 487x | 3 |
+[Hanori](https://osu.ppy.sh/users/7078544) | 506,893 | 97.11% | 461x | 6 |
+[hexi](https://osu.ppy.sh/users/10760701) | 389,245 | 95.93% | 343x | 9 |
+[MRB](https://osu.ppy.sh/users/11234975) | 375,011 | 96.50% | 305x | 5 |
+
+**Argentina 1,948,128** - 1,831,882 Belgium
+
+Argentina wins by 116,246
+
+Argentina (2) - 0 Belgium
+***
+###Map 3 (picked by Argentina)
+***
+
+####NM3 | [VESPERBELL - Chocolate Disco &#91;Bittersweet&#93;](https://osu.ppy.sh/beatmaps/2957016)
+
+3:32 — 128 BPM — 4.3★ — 1,395x
+
+| ***Belgium*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[MRB](https://osu.ppy.sh/users/11234975) | 898,358 | 96.95% | 1,392x | 0 |
+[Vinnie](https://osu.ppy.sh/users/8509247) | 617,381 | 97.63% | 984x | 1 |
+[5joshi](https://osu.ppy.sh/users/4279650) | 379,487 | 98.18% | 379x | 7 |
+[Hanori](https://osu.ppy.sh/users/7078544) | 287,070 | 93.47% | 383x | 11 |
+| ***Argentina*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Pipipupu997](https://osu.ppy.sh/users/20120615) | 627,907 | 98.92% | 878x | 1 |
+[smashcae](https://osu.ppy.sh/users/10459580) | 545,716 | 96.30% | 694x | 1 |
+[Penguo](https://osu.ppy.sh/users/4389490) | 505,745 | 94.40% | 948x | 4 |
+[Bomilk](https://osu.ppy.sh/users/7081596) | 462,290 | 97.84% | 558x | 3 |
+
+Argentina 2,141,658 - **2,182,296 Belgium**
+
+Belgium wins by 40,638
+
+Argentina 2 - (1) Belgium
+***
+###Map 4 (picked by Belgium)
+***
+
+####FM2 | [EBIMAYO - NIGHTMARE INVITATION &#91;MASQUERADE&#93;](https://osu.ppy.sh/beatmaps/5364927)
+
+1:58 — 195 BPM — 6.7★ — 1,271x
+
+| ***Belgium*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[5joshi](https://osu.ppy.sh/users/4279650) +HD | 805,044 | 97.95% | 1,079x | 15 |
+[Hanori](https://osu.ppy.sh/users/7078544) | 773,132 | 98.47% | 1,079x | 6 |
+[Mornis](https://osu.ppy.sh/users/6479616) | 764,128 | 98.16% | 1,083x | 13 |
+[hexi](https://osu.ppy.sh/users/10760701) +HR | 571,708 | 97.91% | 586x | 3 |
+| ***Argentina*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Bomilk](https://osu.ppy.sh/users/7081596) | 885,661 | 98.24% | 1,212x | 8 |
+[Pipipupu997](https://osu.ppy.sh/users/20120615) +HD | 846,076 | 98.79% | 1,099x | 2 |
+[smashcae](https://osu.ppy.sh/users/10459580) | 594,699 | 97.83% | 876x | 10 |
+[Amuro](https://osu.ppy.sh/users/7119659) +HR | 447,137 | 97.21% | 519x | 15 |
+
+Argentina 2,773,573 - **2,914,012 Belgium**
+
+Belgium wins by 140,439
+
+Argentina 2 - (2) Belgium
+***
+###Map 5 (picked by Argentina)
+***
+
+####NM5 | [Frog96 - Letter to the Black World &#91;the censoring of lifes&#93;](https://osu.ppy.sh/beatmaps/5359085)
+
+1:59 — 185 BPM — 6.2★ — 881x
+
+| ***Argentina*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Bomilk](https://osu.ppy.sh/users/7081596) | 968,098 | 99.23% | 877x | 0 |
+[Pipipupu997](https://osu.ppy.sh/users/20120615) | 900,660 | 97.39% | 866x | 0 |
+[viciobylike](https://osu.ppy.sh/users/18922516) | 527,836 | 98.19% | 479x | 2 |
+[Amuro](https://osu.ppy.sh/users/7119659) | 522,306 | 97.90% | 511x | 4 |
+| ***Belgium*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Mornis](https://osu.ppy.sh/users/6479616) | 945,920 | 98.55% | 876x | 0 |
+[hexi](https://osu.ppy.sh/users/10760701) | 710,454 | 99.08% | 657x | 2 |
+[MRB](https://osu.ppy.sh/users/11234975) | 666,418 | 98.16% | 626x | 0 |
+[Hanori](https://osu.ppy.sh/users/7078544) | 464,128 | 98.06% | 387x | 3 |
+
+**Argentina 2,918,900** - 2,786,920 Belgium
+
+Argentina wins by 131,980
+
+Argentina (3) - 2 Belgium
+***
+###Map 6 (picked by Belgium)
+***
+
+####FM3 | [nobodyknows+ - Imaike Samba &#91;Expert&#93;](https://osu.ppy.sh/beatmaps/4769759)
+
+4:21 — 125 BPM — 6.6★ — 1,936x
+
+| ***Argentina*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[viciobylike](https://osu.ppy.sh/users/18922516) | 988,547 | 99.63% | 1,932x | 0 |
+[Bomilk](https://osu.ppy.sh/users/7081596) | 834,254 | 99.63% | 1,673x | 1 |
+[Pipipupu997](https://osu.ppy.sh/users/20120615) +HD | 500,287 | 98.99% | 739x | 1 |
+[Amuro](https://osu.ppy.sh/users/7119659) +HR | 419,489 | 98.80% | 428x | 4 |
+| ***Belgium*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Hanori](https://osu.ppy.sh/users/7078544) +HD | 1,025,047 | 99.05% | 1,930x | 0 |
+[&#91; Unmei &#93;](https://osu.ppy.sh/users/10552613) | 527,288 | 99.72% | 909x | 2 |
+[hexi](https://osu.ppy.sh/users/10760701) +HR | 502,662 | 99.21% | 780x | 3 |
+[5joshi](https://osu.ppy.sh/users/4279650) +HD | 438,277 | 99.34% | 478x | 3 |
+
+**Argentina 2,742,577** - 2,493,274 Belgium
+
+Argentina wins by 249,303
+
+Argentina (4) - 2 Belgium
+***
+###Map 7 (picked by Argentina)
+***
+
+####HR2 | [MEMODEMO - Showoff Showdown &#91;Disco Deluxe (OWC Ver.)&#93;](https://osu.ppy.sh/beatmaps/5365995)
+
+2:31 — 140 BPM — 6.2★ — 1,174x
+
+| ***Argentina*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Bomilk](https://osu.ppy.sh/users/7081596) | 989,546 | 97.02% | 1,168x | 0 |
+[Pipipupu997](https://osu.ppy.sh/users/20120615) | 943,221 | 98.93% | 1,067x | 0 |
+[Amuro](https://osu.ppy.sh/users/7119659) | 854,572 | 97.30% | 1,035x | 5 |
+[viciobylike](https://osu.ppy.sh/users/18922516) | 649,251 | 96.71% | 764x | 1 |
+| ***Belgium*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[hexi](https://osu.ppy.sh/users/10760701) | 585,025 | 96.64% | 575x | 4 |
+[Mornis](https://osu.ppy.sh/users/6479616) | 508,679 | 95.62% | 641x | 2 |
+[Vinnie](https://osu.ppy.sh/users/8509247) | 474,773 | 95.25% | 623x | 7 |
+[Hanori](https://osu.ppy.sh/users/7078544) | 396,486 | 93.12% | 507x | 3 |
+
+**Argentina 3,436,590** - 1,964,963 Belgium
+
+Argentina wins by 1,471,627
+
+**Argentina (5)** - 2 Belgium

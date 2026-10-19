@@ -1,0 +1,193 @@
+## **Taiwan 5** - 1 Vietnam
+
+**Group E Standings:**
+
+| **Team** | **W** | **L** | **PD** |
+|:-:|:-:|:-:|:-:|
+| ***Taiwan*** (#26) | 1 | 0 | +4 |
+| ***Malaysia*** (#33) | 1 | 0 | +2 |
+| ***Denmark*** (#37) | 0 | 0 | 0 |
+| ***Vietnam*** (#32) | 0 | 2 | -6 |
+
+
+^(Top 2 advance to Losers Round of 16)  
+^(Bottom 2 are eliminated)
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119710881) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***Taiwan*** |#26| ***Vietnam*** |#32|
+|:-:|:-:|:-:|:-:|
+| [Flyer](https://osu.ppy.sh/users/9767342) | 1.662 | [def](https://osu.ppy.sh/users/21619075) | 1.978 |
+| [Ruyaya](https://osu.ppy.sh/users/16288992) | 1.620 | [baoo](https://osu.ppy.sh/users/11021073) | 1.109 |
+| [GAO HAO](https://osu.ppy.sh/users/8964050) | 1.568 | [smthelse](https://osu.ppy.sh/users/13238121) | 0.995 |
+| [willy0214](https://osu.ppy.sh/users/8660293) | 1.314 | [Seamie](https://osu.ppy.sh/users/6225096) | 0.960 |
+| [Spinesnight](https://osu.ppy.sh/users/4519494) | 0.910 | [_Casiofx580vnx](https://osu.ppy.sh/users/848961) | 0.941 |
+| [Shirosora](https://osu.ppy.sh/users/10613549) | 0.831 | [Another Guy](https://osu.ppy.sh/users/4540667) | 0.940 |
+| [Rizer](https://osu.ppy.sh/users/5155973) | 0.829 | [electrostrike](https://osu.ppy.sh/users/11538640) | 0.731 |
+| [Ethan2222](https://osu.ppy.sh/users/14249222) | - | [realshin](https://osu.ppy.sh/users/8006029) | - |
+***
+**Bans:**
+
+*Taiwan*
+
+NM1 | [mor ve otesi - Forsa &#91;ft. Skytuna&#93;](https://osu.ppy.sh/beatmaps/3535240)
+
+*Vietnam*
+
+DT2 | [Denkishiki Karen Ongaku Shuudan - Elder Things &#91;Insane&#93;](https://osu.ppy.sh/beatmaps/3863677)
+
+***
+###Map 1 (picked by Taiwan)
+***
+
+####NM3 | [VESPERBELL - Chocolate Disco &#91;Bittersweet&#93;](https://osu.ppy.sh/beatmaps/2957016)
+
+3:32 — 128 BPM — 4.3★ — 1,395x
+
+| ***Taiwan*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[GAO HAO](https://osu.ppy.sh/users/8964050) | 943,509 | 98.36% | 1,395x | 0 |
+[Flyer](https://osu.ppy.sh/users/9767342) | 695,290 | 96.05% | 1,181x | 2 |
+[willy0214](https://osu.ppy.sh/users/8660293) | 647,046 | 98.33% | 961x | 0 |
+[Ruyaya](https://osu.ppy.sh/users/16288992) | 583,073 | 97.22% | 848x | 3 |
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[def](https://osu.ppy.sh/users/21619075) | 618,098 | 98.12% | 882x | 0 |
+[Seamie](https://osu.ppy.sh/users/6225096) | 457,968 | 96.07% | 699x | 5 |
+[smthelse](https://osu.ppy.sh/users/13238121) | 442,823 | 96.66% | 673x | 5 |
+[electrostrike](https://osu.ppy.sh/users/11538640) | 383,021 | 95.87% | 450x | 8 |
+
+**Taiwan 2,868,918** - 1,901,910 Vietnam
+
+Taiwan wins by 967,008
+
+Taiwan (1) - 0 Vietnam
+***
+###Map 2 (picked by Vietnam)
+***
+
+####FM2 | [EBIMAYO - NIGHTMARE INVITATION &#91;MASQUERADE&#93;](https://osu.ppy.sh/beatmaps/5364927)
+
+1:58 — 195 BPM — 6.7★ — 1,271x
+
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[def](https://osu.ppy.sh/users/21619075) | 992,320 | 99.79% | 1,270x | 0 |
+[_Casiofx580vnx](https://osu.ppy.sh/users/848961) +HD | 654,737 | 98.71% | 832x | 7 |
+[baoo](https://osu.ppy.sh/users/11021073) | 564,051 | 99.26% | 586x | 2 |
+[Another Guy](https://osu.ppy.sh/users/4540667) +HR | 507,479 | 98.00% | 528x | 6 |
+| ***Taiwan*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Rizer](https://osu.ppy.sh/users/5155973) | 839,320 | 99.64% | 1,112x | 0 |
+[GAO HAO](https://osu.ppy.sh/users/8964050) | 716,269 | 99.55% | 936x | 3 |
+[willy0214](https://osu.ppy.sh/users/8660293) +HR | 568,828 | 98.17% | 624x | 9 |
+[Ruyaya](https://osu.ppy.sh/users/16288992) +HD | 558,263 | 98.14% | 731x | 7 |
+
+Taiwan 2,682,680 - **2,718,587 Vietnam**
+
+Vietnam wins by 35,907
+
+Taiwan 1 - (1) Vietnam
+***
+###Map 3 (picked by Taiwan)
+***
+
+####HD2 | [I love you orchestra - Coconut Love &#91;Nucifera&#93;](https://osu.ppy.sh/beatmaps/3400091)
+
+2:26 — 180 BPM — 5.9★ — 1,111x
+
+| ***Taiwan*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Ruyaya](https://osu.ppy.sh/users/16288992) | 989,030 | 98.09% | 1,104x | 0 |
+[Flyer](https://osu.ppy.sh/users/9767342) | 645,583 | 99.22% | 694x | 2 |
+[GAO HAO](https://osu.ppy.sh/users/8964050) | 503,638 | 98.32% | 468x | 2 |
+[Spinesnight](https://osu.ppy.sh/users/4519494) | 348,648 | 94.65% | 328x | 4 |
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[def](https://osu.ppy.sh/users/21619075) | 671,128 | 98.37% | 791x | 3 |
+[smthelse](https://osu.ppy.sh/users/13238121) | 468,249 | 96.87% | 555x | 9 |
+[Seamie](https://osu.ppy.sh/users/6225096) | 357,470 | 95.63% | 346x | 15 |
+[electrostrike](https://osu.ppy.sh/users/11538640) | 316,501 | 93.69% | 386x | 7 |
+
+**Taiwan 2,486,899** - 1,813,348 Vietnam
+
+Taiwan wins by 673,551
+
+Taiwan (2) - 1 Vietnam
+***
+###Map 4 (picked by Vietnam)
+***
+
+####HR1 | [alien3 - alien friend request &#91;GOFROG&#93;](https://osu.ppy.sh/beatmaps/4766086)
+
+3:24 — 200 BPM — 6.7★ — 1,641x
+
+| ***Taiwan*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Shirosora](https://osu.ppy.sh/users/10613549) | 910,792 | 97.61% | 1,518x | 1 |
+[willy0214](https://osu.ppy.sh/users/8660293) | 874,599 | 97.66% | 1,462x | 2 |
+[Ruyaya](https://osu.ppy.sh/users/16288992) | 633,614 | 97.88% | 1,028x | 1 |
+[GAO HAO](https://osu.ppy.sh/users/8964050) | 557,181 | 96.54% | 999x | 2 |
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[baoo](https://osu.ppy.sh/users/11021073) | 1,010,191 | 97.55% | 1,637x | 0 |
+[def](https://osu.ppy.sh/users/21619075) | 767,233 | 99.26% | 1,220x | 1 |
+[_Casiofx580vnx](https://osu.ppy.sh/users/848961) | 626,130 | 96.82% | 1,019x | 3 |
+[Another Guy](https://osu.ppy.sh/users/4540667) | 468,478 | 98.07% | 467x | 4 |
+
+**Taiwan 2,976,186** - 2,872,032 Vietnam
+
+Taiwan wins by 104,154
+
+Taiwan (3) - 1 Vietnam
+***
+###Map 5 (picked by Taiwan)
+***
+
+####HD1 | [Luna Fozer - Overjoy * OVERDOSE!! &#91;OVERDOSE!!&#93;](https://osu.ppy.sh/beatmaps/5187418)
+
+2:26 — 143 BPM — 6.1★ — 1,269x
+
+| ***Taiwan*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Flyer](https://osu.ppy.sh/users/9767342) | 994,937 | 98.12% | 1,269x | 0 |
+[Spinesnight](https://osu.ppy.sh/users/4519494) | 777,605 | 97.29% | 1,080x | 1 |
+[Ruyaya](https://osu.ppy.sh/users/16288992) | 644,469 | 98.34% | 719x | 1 |
+[GAO HAO](https://osu.ppy.sh/users/8964050) | 503,709 | 97.76% | 521x | 5 |
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[def](https://osu.ppy.sh/users/21619075) | 1,012,226 | 98.63% | 1,268x | 0 |
+[smthelse](https://osu.ppy.sh/users/13238121) | 579,720 | 96.65% | 659x | 8 |
+[Another Guy](https://osu.ppy.sh/users/4540667) | 446,764 | 97.27% | 525x | 5 |
+[_Casiofx580vnx](https://osu.ppy.sh/users/848961) | 349,372 | 94.45% | 436x | 4 |
+
+**Taiwan 2,920,720** - 2,388,082 Vietnam
+
+Taiwan wins by 532,638
+
+Taiwan (4) - 1 Vietnam
+***
+###Map 6 (picked by Vietnam)
+***
+
+####NM4 | [Vorso - Heliosphere &#91;Coronal Mass Ejection&#93;](https://osu.ppy.sh/beatmaps/5365985)
+
+2:25 — 172 BPM — 5.8★ — 1,175x
+
+| ***Taiwan*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[GAO HAO](https://osu.ppy.sh/users/8964050) | 662,619 | 98.45% | 831x | 2 |
+[Flyer](https://osu.ppy.sh/users/9767342) | 634,024 | 97.40% | 844x | 0 |
+[Ruyaya](https://osu.ppy.sh/users/16288992) | 566,139 | 96.31% | 738x | 1 |
+[willy0214](https://osu.ppy.sh/users/8660293) | 463,612 | 97.06% | 509x | 5 |
+| ***Vietnam*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[def](https://osu.ppy.sh/users/21619075) | 896,614 | 96.88% | 1,168x | 0 |
+[Seamie](https://osu.ppy.sh/users/6225096) | 547,480 | 96.10% | 634x | 0 |
+[Another Guy](https://osu.ppy.sh/users/4540667) | 426,722 | 96.42% | 548x | 1 |
+[electrostrike](https://osu.ppy.sh/users/11538640) | 337,709 | 93.91% | 352x | 7 |
+
+**Taiwan 2,326,394** - 2,208,525 Vietnam
+
+Taiwan wins by 117,869
+
+**Taiwan (5)** - 1 Vietnam

@@ -1,0 +1,310 @@
+## **South Korea 7** - 4 United States
+
+#### Congratulations to Team South Korea for becoming the osu! World Cup 2024 Champions!
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/116432947) | [Bracket](https://challonge.com/OWC24) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2024) | [Sheet](https://docs.google.com/spreadsheets/d/1r6atZf2Qbeg8s0Uq_K3z5MNBM-BMMC7hYYJ0cz065Ng)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***South Korea*** |#1| ***United States*** |#3|
+|:-:|:-:|:-:|:-:|
+| [worst hr player](https://osu.ppy.sh/users/14106450) | 1.926 | [Utami](https://osu.ppy.sh/users/7512553) | 1.788 |
+| [byeok2044](https://osu.ppy.sh/users/8472976) | 1.712 | [hydrogen bomb](https://osu.ppy.sh/users/7813296) | 1.684 |
+| [FlyingTuna](https://osu.ppy.sh/users/9224078) | 1.617 | [WindowLife](https://osu.ppy.sh/users/4108547) | 1.649 |
+| [fragranceofpage](https://osu.ppy.sh/users/11399348) | 1.581 | [decaten](https://osu.ppy.sh/users/5645231) | 1.567 |
+| [Allegrissimo](https://osu.ppy.sh/users/9052194) | 1.057 | [tekkito](https://osu.ppy.sh/users/7075211) | 1.313 |
+| [&#91;Karcher&#93;](https://osu.ppy.sh/users/11443437) | 0.993 | [Pezz](https://osu.ppy.sh/users/10651106) | 0.808 |
+| [Amamya Kokoro](https://osu.ppy.sh/users/2511839) | 0.794 | [Kama](https://osu.ppy.sh/users/13380270) | 0.789 |
+| [Doomsday fanboy](https://osu.ppy.sh/users/4511522) | 0.509 | [BoshyMan741](https://osu.ppy.sh/users/4830687) | 0.739 |
+***
+**Bans:**
+
+*South Korea*
+
+FM4 | [First Fragment - Le Serment De Tsion &#91;Kneel&#93;](https://osu.ppy.sh/beatmaps/4881760)
+
+DT3 | [Demetori - Wind God Girl &#91;Extra&#93;](https://osu.ppy.sh/beatmaps/74684)
+
+*United States*
+
+NM2 | [Attoclef - Naples Yellow Mango &#91;Van Gogh's Miss (feat. Hollow Wings)&#93;](https://osu.ppy.sh/beatmaps/4881869)
+
+HD2 | [Omoi feat. Hatsune Miku - Snow Drive(01.23) &#91;Journey's End&#93;](https://osu.ppy.sh/beatmaps/4881475)
+
+***
+###Map 1 (picked by South Korea)
+***
+
+####FM3 | [Nanahoshi Kangengakudan feat. Hatsune Miku - Rubik's Cube &#91;owc ver.&#93;](https://osu.ppy.sh/beatmaps/4881933)
+
+3:07 — 174 BPM — 8.1★ — 1,723x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[hydrogen bomb](https://osu.ppy.sh/users/7813296) +HR | 618,215 | 97.19% | 1,094x | 21 |
+[Utami](https://osu.ppy.sh/users/7512553) +HR | 578,225 | 98.18% | 840x | 14 |
+[Kama](https://osu.ppy.sh/users/13380270) +HR | 398,939 | 96.26% | 488x | 39 |
+[tekkito](https://osu.ppy.sh/users/7075211) +HD | 270,510 | 92.50% | 366x | 38 |
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[worst hr player](https://osu.ppy.sh/users/14106450) | 560,899 | 96.75% | 1,106x | 19 |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) +HR | 450,029 | 97.01% | 531x | 17 |
+[&#91;Karcher&#93;](https://osu.ppy.sh/users/11443437) +HR | 440,587 | 97.36% | 503x | 20 |
+[Amamya Kokoro](https://osu.ppy.sh/users/2511839) +HD | 241,167 | 92.06% | 320x | 58 |
+
+South Korea 1,692,682 - **1,865,889 United States**
+
+United States wins by 173,207
+
+South Korea 0 - (1) United States
+***
+###Map 2 (picked by United States)
+***
+
+####NM5 | [XH - Corrupted Paywall &#91;Bypass&#93;](https://osu.ppy.sh/beatmaps/4881677)
+
+2:20 — 285 BPM — 8.5★ — 1,541x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Utami](https://osu.ppy.sh/users/7512553) | 700,671 | 96.35% | 1,307x | 4 |
+[WindowLife](https://osu.ppy.sh/users/4108547) | 550,222 | 98.30% | 831x | 0 |
+[tekkito](https://osu.ppy.sh/users/7075211) | 538,912 | 97.10% | 941x | 3 |
+[hydrogen bomb](https://osu.ppy.sh/users/7813296) | 453,407 | 96.16% | 810x | 2 |
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 481,346 | 97.33% | 747x | 1 |
+[worst hr player](https://osu.ppy.sh/users/14106450) | 428,521 | 95.02% | 707x | 5 |
+[fragranceofpage](https://osu.ppy.sh/users/11399348) | 390,408 | 96.11% | 642x | 3 |
+[byeok2044](https://osu.ppy.sh/users/8472976) | 372,753 | 94.72% | 710x | 10 |
+
+South Korea 1,673,028 - **2,243,212 United States**
+
+United States wins by 570,184
+
+South Korea 0 - (2) United States
+***
+###Map 3 (picked by South Korea)
+***
+
+####HD1 | [hitorie - Shinkokyuu &#91;tragic love extra&#93;](https://osu.ppy.sh/beatmaps/4881712)
+
+3:05 — 260 BPM — 8.3★ — 1,591x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[worst hr player](https://osu.ppy.sh/users/14106450) | 718,324 | 98.40% | 1,206x | 5 |
+[fragranceofpage](https://osu.ppy.sh/users/11399348) | 628,166 | 98.92% | 957x | 2 |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 587,182 | 98.81% | 867x | 4 |
+[byeok2044](https://osu.ppy.sh/users/8472976) | 521,504 | 98.31% | 793x | 6 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Utami](https://osu.ppy.sh/users/7512553) | 540,137 | 99.08% | 790x | 3 |
+[hydrogen bomb](https://osu.ppy.sh/users/7813296) | 468,437 | 98.24% | 755x | 9 |
+[tekkito](https://osu.ppy.sh/users/7075211) | 441,353 | 99.01% | 559x | 8 |
+[decaten](https://osu.ppy.sh/users/5645231) | 374,061 | 97.79% | 375x | 14 |
+
+**South Korea 2,455,176** - 1,823,988 United States
+
+South Korea wins by 631,188
+
+South Korea (1) - 2 United States
+***
+###Map 4 (picked by United States)
+***
+
+####DT2 | [Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix &#91;Spin to Win&#93;](https://osu.ppy.sh/beatmaps/4881745)
+
+2:24 — 240 BPM — 8.5★ — 1,580x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[WindowLife](https://osu.ppy.sh/users/4108547) | 1,144,479 | 98.40% | 1,580x | 0 |
+[Utami](https://osu.ppy.sh/users/7512553) | 1,086,860 | 96.87% | 1,580x | 0 |
+[tekkito](https://osu.ppy.sh/users/7075211) | 730,749 | 96.56% | 1,140x | 5 |
+[hydrogen bomb](https://osu.ppy.sh/users/7813296) | 560,353 | 96.97% | 671x | 12 |
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[fragranceofpage](https://osu.ppy.sh/users/11399348) | 706,436 | 95.77% | 1,090x | 5 |
+[Doomsday fanboy](https://osu.ppy.sh/users/4511522) | 549,339 | 95.99% | 829x | 7 |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 509,719 | 95.29% | 591x | 5 |
+[&#91;Karcher&#93;](https://osu.ppy.sh/users/11443437) | 471,850 | 94.57% | 679x | 9 |
+
+South Korea 2,237,344 - **3,522,441 United States**
+
+United States wins by 1,285,097
+
+South Korea 1 - (3) United States
+***
+###Map 5 (picked by South Korea)
+***
+
+####HD3 | [Gram vs. DJ Genki - XIchedelic Nova Trinity &#91;C12H17N2O4P&#93;](https://osu.ppy.sh/beatmaps/4881714)
+
+2:44 — 165 BPM — 8.1★ — 1,693x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[WindowLife](https://osu.ppy.sh/users/4108547) | 470,748 | 97.37% | 707x | 14 |
+[decaten](https://osu.ppy.sh/users/5645231) | 441,231 | 97.45% | 625x | 14 |
+[tekkito](https://osu.ppy.sh/users/7075211) | 398,326 | 96.57% | 530x | 20 |
+[Utami](https://osu.ppy.sh/users/7512553) | 338,712 | 96.26% | 368x | 14 |
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[worst hr player](https://osu.ppy.sh/users/14106450) | 558,465 | 97.90% | 784x | 8 |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 407,857 | 96.71% | 514x | 11 |
+[fragranceofpage](https://osu.ppy.sh/users/11399348) | 338,088 | 96.13% | 390x | 12 |
+[Allegrissimo](https://osu.ppy.sh/users/9052194) | 308,384 | 94.31% | 504x | 26 |
+
+South Korea 1,612,794 - **1,649,017 United States**
+
+United States wins by 36,223
+
+South Korea 1 - (4) United States
+***
+###Map 6 (picked by United States)
+***
+
+####HR2 | [Ave Mujica - Black Birthday &#91;The First Birthday&#93;](https://osu.ppy.sh/beatmaps/4881729)
+
+3:35 — 198 BPM — 7.7★ — 1,359x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[byeok2044](https://osu.ppy.sh/users/8472976) | 540,581 | 97.72% | 744x | 10 |
+[fragranceofpage](https://osu.ppy.sh/users/11399348) | 462,887 | 95.85% | 708x | 8 |
+[worst hr player](https://osu.ppy.sh/users/14106450) | 383,889 | 98.21% | 341x | 13 |
+[Allegrissimo](https://osu.ppy.sh/users/9052194) | 344,516 | 96.71% | 299x | 15 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[BoshyMan741](https://osu.ppy.sh/users/4830687) | 452,100 | 97.00% | 576x | 9 |
+[decaten](https://osu.ppy.sh/users/5645231) | 407,856 | 97.70% | 434x | 13 |
+[hydrogen bomb](https://osu.ppy.sh/users/7813296) | 382,197 | 97.32% | 362x | 10 |
+[Pezz](https://osu.ppy.sh/users/10651106) | 288,652 | 95.21% | 211x | 26 |
+
+**South Korea 1,731,873** - 1,530,805 United States
+
+South Korea wins by 201,068
+
+South Korea (2) - 4 United States
+***
+###Map 7 (picked by South Korea)
+***
+
+####HR3 | [TAROLIN feat. Katakiri Rekka - Cardinal Rave &#91;Landed in the Dogwood&#93;](https://osu.ppy.sh/beatmaps/2332178)
+
+4:00 — 160 BPM — 8.3★ — 2,110x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[fragranceofpage](https://osu.ppy.sh/users/11399348) | 671,622 | 96.33% | 1,569x | 2 |
+[worst hr player](https://osu.ppy.sh/users/14106450) | 645,672 | 98.65% | 1,383x | 5 |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 402,034 | 95.14% | 781x | 13 |
+[byeok2044](https://osu.ppy.sh/users/8472976) | 381,530 | 95.28% | 659x | 6 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[hydrogen bomb](https://osu.ppy.sh/users/7813296) | 610,100 | 96.36% | 1,432x | 9 |
+[WindowLife](https://osu.ppy.sh/users/4108547) | 531,320 | 96.81% | 1,224x | 6 |
+[decaten](https://osu.ppy.sh/users/5645231) | 481,113 | 97.04% | 945x | 8 |
+[Kama](https://osu.ppy.sh/users/13380270) | 346,442 | 95.96% | 584x | 28 |
+
+**South Korea 2,100,858** - 1,968,975 United States
+
+South Korea wins by 131,883
+
+South Korea (3) - 4 United States
+***
+###Map 8 (picked by United States)
+***
+
+####DT4 | [Kalafina x The Prodigy - No Good Magia (Start the Witch) &#91;Walpurgisnacht&#93;](https://osu.ppy.sh/beatmaps/2067859)
+
+2:19 — 218 BPM — 8.6★ — 1,575x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 731,787 | 98.65% | 954x | 2 |
+[worst hr player](https://osu.ppy.sh/users/14106450) | 618,429 | 99.00% | 675x | 2 |
+[Amamya Kokoro](https://osu.ppy.sh/users/2511839) | 424,243 | 95.36% | 625x | 21 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[decaten](https://osu.ppy.sh/users/5645231) | 567,525 | 97.88% | 778x | 11 |
+[hydrogen bomb](https://osu.ppy.sh/users/7813296) | 549,355 | 98.03% | 563x | 1 |
+[WindowLife](https://osu.ppy.sh/users/4108547) | 529,918 | 97.76% | 619x | 6 |
+[Utami](https://osu.ppy.sh/users/7512553) | 478,351 | 97.51% | 408x | 6 |
+
+**South Korea 2,179,405** - 2,125,869 United States
+
+South Korea wins by 53,536
+
+South Korea (4) - 4 United States
+***
+###Map 9 (picked by South Korea)
+***
+
+####NM4 | [XenjeS - Organic's Decay (Cut Ver.) &#91;Life Form Disintegration Ray&#93;](https://osu.ppy.sh/beatmaps/4881668)
+
+4:22 — 174 BPM — 7.4★ — 2,763x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[worst hr player](https://osu.ppy.sh/users/14106450) | 460,020 | 98.19% | 1,284x | 2 |
+[byeok2044](https://osu.ppy.sh/users/8472976) | 450,848 | 92.61% | 1,841x | 12 |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 400,201 | 94.20% | 1,535x | 26 |
+[Amamya Kokoro](https://osu.ppy.sh/users/2511839) | 252,063 | 93.47% | 823x | 30 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[decaten](https://osu.ppy.sh/users/5645231) | 467,981 | 96.54% | 1,574x | 5 |
+[hydrogen bomb](https://osu.ppy.sh/users/7813296) | 382,833 | 95.51% | 1,079x | 4 |
+[WindowLife](https://osu.ppy.sh/users/4108547) | 275,198 | 95.32% | 592x | 21 |
+[tekkito](https://osu.ppy.sh/users/7075211) | 267,942 | 93.60% | 835x | 9 |
+
+**South Korea 1,563,132** - 1,393,954 United States
+
+South Korea wins by 169,178
+
+South Korea (5) - 4 United States
+***
+###Map 10 (picked by United States)
+***
+
+####HR1 | [Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) &#91;HE WILL&#93;](https://osu.ppy.sh/beatmaps/2874944)
+
+3:02 — 200 BPM — 8.5★ — 2,125x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[byeok2044](https://osu.ppy.sh/users/8472976) | 795,672 | 99.14% | 1,649x | 4 |
+[worst hr player](https://osu.ppy.sh/users/14106450) | 457,179 | 97.32% | 775x | 27 |
+[fragranceofpage](https://osu.ppy.sh/users/11399348) | 441,839 | 98.09% | 561x | 18 |
+[&#91;Karcher&#93;](https://osu.ppy.sh/users/11443437) | 420,906 | 97.99% | 670x | 18 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[hydrogen bomb](https://osu.ppy.sh/users/7813296) | 633,469 | 99.08% | 1,295x | 3 |
+[Utami](https://osu.ppy.sh/users/7512553) | 502,252 | 98.17% | 941x | 19 |
+[WindowLife](https://osu.ppy.sh/users/4108547) | 407,708 | 97.50% | 530x | 23 |
+[decaten](https://osu.ppy.sh/users/5645231) | 364,877 | 97.05% | 465x | 31 |
+
+**South Korea 2,115,596** - 1,908,306 United States
+
+South Korea wins by 207,290
+
+South Korea (6) - 4 United States
+***
+###Map 11 (picked by South Korea)
+***
+
+####NM3 | [TK from Ling tosite sigure - unravel &#91;otshelnik&#93;](https://osu.ppy.sh/beatmaps/4881614)
+
+3:45 — 135 BPM — 8.1★ — 1,642x
+
+| ***South Korea*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[worst hr player](https://osu.ppy.sh/users/14106450) | 433,888 | 97.92% | 575x | 9 |
+[byeok2044](https://osu.ppy.sh/users/8472976) | 384,514 | 97.45% | 557x | 15 |
+[Allegrissimo](https://osu.ppy.sh/users/9052194) | 366,596 | 95.12% | 779x | 20 |
+[FlyingTuna](https://osu.ppy.sh/users/9224078) | 319,609 | 94.70% | 558x | 18 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[decaten](https://osu.ppy.sh/users/5645231) | 386,562 | 97.74% | 486x | 13 |
+[Utami](https://osu.ppy.sh/users/7512553) | 353,153 | 96.11% | 476x | 15 |
+[Pezz](https://osu.ppy.sh/users/10651106) | 319,995 | 96.57% | 449x | 17 |
+[hydrogen bomb](https://osu.ppy.sh/users/7813296) | 253,057 | 93.85% | 376x | 33 |
+
+**South Korea 1,504,607** - 1,312,767 United States
+
+South Korea wins by 191,840
+
+**South Korea (7)** - 4 United States

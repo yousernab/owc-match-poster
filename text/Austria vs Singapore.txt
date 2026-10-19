@@ -1,0 +1,184 @@
+## **Austria 5** - 1 Singapore
+
+Austria will face Chile in Losers Round 2.
+
+Singapore has been eliminated in 25th-32nd place.
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119844472) | [Bracket](https://challonge.com/OWC2025) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***Austria*** |#17| ***Singapore*** |#31|
+|:-:|:-:|:-:|:-:|
+| [Akuma no Tenshi](https://osu.ppy.sh/users/21811804) | 1.723 | [Cymango](https://osu.ppy.sh/users/19256705) | 1.581 |
+| [z10a](https://osu.ppy.sh/users/18153252) | 1.696 | [Dawnwing](https://osu.ppy.sh/users/5144534) | 1.472 |
+| [fedoragoose](https://osu.ppy.sh/users/2323131) | 1.622 | [GSBlank](https://osu.ppy.sh/users/2312106) | 1.291 |
+| [z9a](https://osu.ppy.sh/users/13057699) | 1.478 | [Mekeyo](https://osu.ppy.sh/users/10270787) | 1.181 |
+| [tomadoi](https://osu.ppy.sh/users/5712451) | 0.840 | [hollowknees](https://osu.ppy.sh/users/15195364) | 0.917 |
+| [fruit cup](https://osu.ppy.sh/users/8369887) | 0.424 | [Eagle5324](https://osu.ppy.sh/users/11987104) | 0.741 |
+| [Teppi Fangirl](https://osu.ppy.sh/users/16522589) | - | [Tebi](https://osu.ppy.sh/users/5407620) | 0.719 |
+| [Teppi](https://osu.ppy.sh/users/1371974) | - | [qstronaut](https://osu.ppy.sh/users/10958852) | 0.498 |
+***
+**Bans:**
+
+*Austria*
+
+NM4 | [ABSOLUTE CASTAWAY - step by step &#91;iBell's Waltz&#93;](https://osu.ppy.sh/beatmaps/5167719)
+
+*Singapore*
+
+DT1 | [KOTOKO - Oboetete Ii yo &#91;Insane&#93;](https://osu.ppy.sh/beatmaps/163836)
+
+***
+###Map 1 (picked by Austria)
+***
+
+####NM2 | [Hideous Divinity - The Deaden Room &#91;Precognition of Blood&#93;](https://osu.ppy.sh/beatmaps/4984190)
+
+3:26 — 256 BPM — 7.4★ — 1,830x
+
+| ***Austria*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[z10a](https://osu.ppy.sh/users/18153252) | 887,804 | 96.14% | 1,829x | 0 |
+[Akuma no Tenshi](https://osu.ppy.sh/users/21811804) | 807,999 | 96.89% | 1,679x | 1 |
+[z9a](https://osu.ppy.sh/users/13057699) | 785,514 | 98.49% | 1,556x | 1 |
+[fedoragoose](https://osu.ppy.sh/users/2323131) | 539,415 | 93.00% | 1,257x | 0 |
+| ***Singapore*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Cymango](https://osu.ppy.sh/users/19256705) | 929,483 | 97.41% | 1,829x | 0 |
+[GSBlank](https://osu.ppy.sh/users/2312106) | 613,319 | 97.03% | 1,194x | 1 |
+[hollowknees](https://osu.ppy.sh/users/15195364) | 499,197 | 94.89% | 1,149x | 1 |
+[qstronaut](https://osu.ppy.sh/users/10958852) | 252,161 | 89.48% | 684x | 22 |
+
+**Austria 3,020,732** - 2,294,160 Singapore
+
+Austria wins by 726,572
+
+Austria (1) - 0 Singapore
+***
+###Map 2 (picked by Singapore)
+***
+
+####FM1 | [inabakumori - NON-USE &#91;owc&#93;](https://osu.ppy.sh/beatmaps/5386902)
+
+3:29 — 220 BPM — 6.6★ — 1,631x
+
+| ***Austria*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[tomadoi](https://osu.ppy.sh/users/5712451) +HD | 620,899 | 98.71% | 999x | 5 |
+[z10a](https://osu.ppy.sh/users/18153252) +HR | 576,549 | 98.68% | 742x | 2 |
+[z9a](https://osu.ppy.sh/users/13057699) +HR | 569,428 | 98.05% | 823x | 4 |
+[fedoragoose](https://osu.ppy.sh/users/2323131) | 558,065 | 99.03% | 918x | 4 |
+| ***Singapore*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Dawnwing](https://osu.ppy.sh/users/5144534) | 771,419 | 99.03% | 1,370x | 2 |
+[Mekeyo](https://osu.ppy.sh/users/10270787) +HR | 542,715 | 96.64% | 742x | 3 |
+[Tebi](https://osu.ppy.sh/users/5407620) | 436,667 | 98.23% | 633x | 4 |
+[Eagle5324](https://osu.ppy.sh/users/11987104) +HD | 390,466 | 97.93% | 426x | 6 |
+
+**Austria 2,324,941** - 2,141,267 Singapore
+
+Austria wins by 183,674
+
+Austria (2) - 0 Singapore
+***
+###Map 3 (picked by Austria)
+***
+
+####DT2 | [senya - Tokuiten no Kaibutsuteki Kanjou &#91;Satellite&#93;](https://osu.ppy.sh/beatmaps/5386832)
+
+1:53 — 234 BPM — 7.3★ — 1,291x
+
+| ***Austria*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[z10a](https://osu.ppy.sh/users/18153252) | 1,144,844 | 98.63% | 1,290x | 0 |
+[Akuma no Tenshi](https://osu.ppy.sh/users/21811804) | 1,131,849 | 98.25% | 1,290x | 0 |
+[fedoragoose](https://osu.ppy.sh/users/2323131) | 719,616 | 95.88% | 933x | 4 |
+[z9a](https://osu.ppy.sh/users/13057699) | 613,906 | 97.93% | 636x | 2 |
+| ***Singapore*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Cymango](https://osu.ppy.sh/users/19256705) | 1,117,478 | 97.93% | 1,289x | 0 |
+[GSBlank](https://osu.ppy.sh/users/2312106) | 762,171 | 96.27% | 974x | 7 |
+[hollowknees](https://osu.ppy.sh/users/15195364) | 512,466 | 97.54% | 386x | 3 |
+[qstronaut](https://osu.ppy.sh/users/10958852) | 501,817 | 96.02% | 614x | 17 |
+
+**Austria 3,610,215** - 2,893,932 Singapore
+
+Austria wins by 716,283
+
+Austria (3) - 0 Singapore
+***
+###Map 4 (picked by Singapore)
+***
+
+####NM1 | [DIALOGUE+ - Daibouken o Yoroshiku &#91;Jet to the Future&#93;](https://osu.ppy.sh/beatmaps/5386789)
+
+3:45 — 208 BPM — 7.1★ — 1,611x
+
+| ***Singapore*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Mekeyo](https://osu.ppy.sh/users/10270787) | 998,598 | 99.69% | 1,609x | 0 |
+[Cymango](https://osu.ppy.sh/users/19256705) | 750,029 | 98.21% | 1,330x | 1 |
+[Dawnwing](https://osu.ppy.sh/users/5144534) | 650,661 | 99.38% | 846x | 2 |
+[Tebi](https://osu.ppy.sh/users/5407620) | 456,103 | 98.87% | 548x | 5 |
+| ***Austria*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[z10a](https://osu.ppy.sh/users/18153252) | 938,224 | 99.26% | 1,551x | 2 |
+[fedoragoose](https://osu.ppy.sh/users/2323131) | 716,465 | 99.48% | 1,173x | 2 |
+[z9a](https://osu.ppy.sh/users/13057699) | 614,293 | 98.99% | 1,045x | 5 |
+[fruit cup](https://osu.ppy.sh/users/8369887) | 442,941 | 98.82% | 546x | 7 |
+
+Austria 2,711,923 - **2,855,391 Singapore**
+
+Singapore wins by 143,468
+
+Austria 3 - (1) Singapore
+***
+###Map 5 (picked by Austria)
+***
+
+####DT3 | [Tyler, The Creator - Ring Ring Ring &#91;Voicemail&#93;](https://osu.ppy.sh/beatmaps/5386835)
+
+2:09 — 179 BPM — 6.9★ — 1,094x
+
+| ***Austria*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Akuma no Tenshi](https://osu.ppy.sh/users/21811804) | 1,121,501 | 98.11% | 1,089x | 0 |
+[z9a](https://osu.ppy.sh/users/13057699) | 653,830 | 93.62% | 748x | 0 |
+[fedoragoose](https://osu.ppy.sh/users/2323131) | 596,200 | 92.52% | 722x | 2 |
+[z10a](https://osu.ppy.sh/users/18153252) | 546,543 | 94.96% | 564x | 1 |
+| ***Singapore*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Dawnwing](https://osu.ppy.sh/users/5144534) | 719,335 | 95.88% | 756x | 1 |
+[GSBlank](https://osu.ppy.sh/users/2312106) | 681,801 | 94.96% | 786x | 3 |
+[hollowknees](https://osu.ppy.sh/users/15195364) | 601,777 | 97.54% | 586x | 3 |
+[Mekeyo](https://osu.ppy.sh/users/10270787) | 359,291 | 91.01% | 336x | 1 |
+
+**Austria 2,918,074** - 2,362,204 Singapore
+
+Austria wins by 555,870
+
+Austria (4) - 1 Singapore
+***
+###Map 6 (picked by Singapore)
+***
+
+####FM3 | [masarada - Liar Dancer &#91;DANSA&#93;](https://osu.ppy.sh/beatmaps/5290020)
+
+3:26 — 170 BPM — 6.5★ — 1,757x
+
+| ***Austria*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[fedoragoose](https://osu.ppy.sh/users/2323131) +HD | 1,003,509 | 98.58% | 1,750x | 0 |
+[z9a](https://osu.ppy.sh/users/13057699) +HR | 583,673 | 95.70% | 1,173x | 6 |
+[z10a](https://osu.ppy.sh/users/18153252) | 449,558 | 97.63% | 734x | 2 |
+[tomadoi](https://osu.ppy.sh/users/5712451) +HD | 306,246 | 95.79% | 381x | 16 |
+| ***Singapore*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Dawnwing](https://osu.ppy.sh/users/5144534) | 544,936 | 97.64% | 1,061x | 4 |
+[GSBlank](https://osu.ppy.sh/users/2312106) +HR | 528,105 | 96.23% | 942x | 7 |
+[Cymango](https://osu.ppy.sh/users/19256705) | 481,560 | 96.03% | 993x | 3 |
+[Eagle5324](https://osu.ppy.sh/users/11987104) +HD | 422,487 | 98.03% | 502x | 4 |
+
+**Austria 2,342,986** - 1,977,088 Singapore
+
+Austria wins by 365,898
+
+**Austria (5)** - 1 Singapore

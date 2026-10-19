@@ -1,0 +1,159 @@
+## **Australia 5** - 0 Romania
+
+Australia will face the winner of South Korea vs Chile in the Quarterfinals.
+
+Romania will face the winner of Taiwan vs Netherlands in Losers Round 2.
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/119831812) | [Bracket](https://challonge.com/OWC2025) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***Australia*** |#3| ***Romania*** |#12|
+|:-:|:-:|:-:|:-:|
+| [mrekk](https://osu.ppy.sh/users/7562902) | 1.844 | [etn](https://osu.ppy.sh/users/4581069) | 1.456 |
+| [ASecretBox](https://osu.ppy.sh/users/7341183) | 1.589 | [badeu](https://osu.ppy.sh/users/1473890) | 1.446 |
+| [palr](https://osu.ppy.sh/users/15429006) | 1.383 | [Kehest](https://osu.ppy.sh/users/6145000) | 1.184 |
+| [cloppit](https://osu.ppy.sh/users/19851850) | 1.155 | [origin_](https://osu.ppy.sh/users/15095811) | 1.129 |
+| [aknzx](https://osu.ppy.sh/users/9938943) | 1.055 | [AlexBelea](https://osu.ppy.sh/users/19430137) | 0.566 |
+| [Xaver](https://osu.ppy.sh/users/7410343) | 0.834 | [robotonic](https://osu.ppy.sh/users/14880483) | 0.376 |
+| [SUPERI0R](https://osu.ppy.sh/users/17235399) | - | [capybaras](https://osu.ppy.sh/users/10111132) | - |
+| [big snag](https://osu.ppy.sh/users/8181420) | - | [Pregnancy](https://osu.ppy.sh/users/10569381) | - |
+***
+**Bans:**
+
+*Australia*
+
+HD2 | [Minami no Minami - KAFU-chan no Curry Udon Kyousoukyoku &#91;aaaaAAAAAaaa&#93;](https://osu.ppy.sh/beatmaps/4378380)
+
+*Romania*
+
+DT2 | [senya - Tokuiten no Kaibutsuteki Kanjou &#91;Satellite&#93;](https://osu.ppy.sh/beatmaps/5386832)
+
+***
+###Map 1 (picked by Romania)
+***
+
+####FM1 | [inabakumori - NON-USE &#91;owc&#93;](https://osu.ppy.sh/beatmaps/5386902)
+
+3:29 — 220 BPM — 6.6★ — 1,631x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[mrekk](https://osu.ppy.sh/users/7562902) | 983,086 | 99.60% | 1,627x | 0 |
+[palr](https://osu.ppy.sh/users/15429006) +HD | 752,231 | 98.97% | 1,244x | 2 |
+[Xaver](https://osu.ppy.sh/users/7410343) | 601,133 | 98.18% | 938x | 1 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) +HR | 597,137 | 99.37% | 709x | 1 |
+| ***Romania*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[badeu](https://osu.ppy.sh/users/1473890) | 911,628 | 97.67% | 1,619x | 1 |
+[etn](https://osu.ppy.sh/users/4581069) +HR | 717,186 | 99.50% | 995x | 1 |
+[Kehest](https://osu.ppy.sh/users/6145000) +HR | 477,074 | 97.87% | 632x | 2 |
+[origin_](https://osu.ppy.sh/users/15095811) +HD | 426,984 | 97.80% | 556x | 9 |
+
+**Australia 2,933,587** - 2,532,872 Romania
+
+Australia wins by 400,715
+
+Australia (1) - 0 Romania
+***
+###Map 2 (picked by Australia)
+***
+
+####NM2 | [Hideous Divinity - The Deaden Room &#91;Precognition of Blood&#93;](https://osu.ppy.sh/beatmaps/4984190)
+
+3:26 — 256 BPM — 7.4★ — 1,830x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 1,010,303 | 99.82% | 1,829x | 0 |
+[mrekk](https://osu.ppy.sh/users/7562902) | 977,211 | 98.82% | 1,829x | 0 |
+[cloppit](https://osu.ppy.sh/users/19851850) | 871,600 | 98.49% | 1,697x | 1 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 622,849 | 98.92% | 1,155x | 3 |
+| ***Romania*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[etn](https://osu.ppy.sh/users/4581069) | 682,454 | 97.52% | 1,420x | 1 |
+[origin_](https://osu.ppy.sh/users/15095811) | 642,596 | 97.47% | 1,238x | 0 |
+[Kehest](https://osu.ppy.sh/users/6145000) | 485,512 | 95.71% | 989x | 3 |
+[AlexBelea](https://osu.ppy.sh/users/19430137) | 485,342 | 93.99% | 1,150x | 5 |
+
+**Australia 3,481,963** - 2,295,904 Romania
+
+Australia wins by 1,186,059
+
+Australia (2) - 0 Romania
+***
+###Map 3 (picked by Romania)
+***
+
+####FM2 | [Magdalena Bay - Image &#91;mirage&#93;](https://osu.ppy.sh/beatmaps/5386826)
+
+3:21 — 128 BPM — 5.9★ — 1,417x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[mrekk](https://osu.ppy.sh/users/7562902) | 947,807 | 98.26% | 1,415x | 0 |
+[palr](https://osu.ppy.sh/users/15429006) +HD | 923,792 | 95.81% | 1,414x | 0 |
+[Xaver](https://osu.ppy.sh/users/7410343) | 588,672 | 98.46% | 867x | 4 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) +HR | 580,965 | 98.85% | 624x | 2 |
+| ***Romania*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[badeu](https://osu.ppy.sh/users/1473890) | 885,714 | 98.30% | 1,332x | 1 |
+[Kehest](https://osu.ppy.sh/users/6145000) | 844,763 | 96.40% | 1,363x | 0 |
+[etn](https://osu.ppy.sh/users/4581069) +HR | 672,432 | 99.10% | 932x | 3 |
+[origin_](https://osu.ppy.sh/users/15095811) +HD | 526,375 | 99.00% | 502x | 4 |
+
+**Australia 3,041,236** - 2,929,284 Romania
+
+Australia wins by 111,952
+
+Australia (3) - 0 Romania
+***
+###Map 4 (picked by Australia)
+***
+
+####DT1 | [KOTOKO - Oboetete Ii yo &#91;Insane&#93;](https://osu.ppy.sh/beatmaps/163836)
+
+1:55 — 267 BPM — 7.6★ — 1,058x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[cloppit](https://osu.ppy.sh/users/19851850) | 1,193,360 | 99.75% | 1,057x | 0 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 1,192,635 | 99.75% | 1,057x | 0 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 1,192,478 | 99.75% | 1,056x | 0 |
+[mrekk](https://osu.ppy.sh/users/7562902) | 1,164,882 | 99.12% | 1,056x | 0 |
+| ***Romania*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[etn](https://osu.ppy.sh/users/4581069) | 1,153,632 | 98.91% | 1,056x | 0 |
+[Kehest](https://osu.ppy.sh/users/6145000) | 1,133,480 | 98.98% | 1,039x | 0 |
+[origin_](https://osu.ppy.sh/users/15095811) | 1,010,059 | 99.52% | 908x | 1 |
+[robotonic](https://osu.ppy.sh/users/14880483) | 610,052 | 97.87% | 553x | 4 |
+
+**Australia 4,743,355** - 3,907,223 Romania
+
+Australia wins by 836,132
+
+Australia (4) - 0 Romania
+***
+###Map 5 (picked by Romania)
+***
+
+####NM5 | [gladde paling - vleermuis &#91;gelukkige aal&#93;](https://osu.ppy.sh/beatmaps/5386813)
+
+1:38 — 180 BPM — 6.9★ — 822x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 694,749 | 91.97% | 749x | 0 |
+[mrekk](https://osu.ppy.sh/users/7562902) | 649,796 | 96.38% | 641x | 0 |
+[palr](https://osu.ppy.sh/users/15429006) | 552,924 | 93.51% | 582x | 0 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 332,260 | 93.84% | 274x | 2 |
+| ***Romania*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[etn](https://osu.ppy.sh/users/4581069) | 560,763 | 91.18% | 659x | 1 |
+[badeu](https://osu.ppy.sh/users/1473890) | 540,097 | 94.77% | 521x | 1 |
+[origin_](https://osu.ppy.sh/users/15095811) | 394,717 | 92.51% | 487x | 4 |
+[AlexBelea](https://osu.ppy.sh/users/19430137) | 227,188 | 88.46% | 251x | 4 |
+
+**Australia 2,229,729** - 1,722,765 Romania
+
+Australia wins by 506,964
+
+**Australia (5)** - 0 Romania

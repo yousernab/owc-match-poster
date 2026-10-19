@@ -1,0 +1,363 @@
+## **United States 7** - 6 Australia
+
+United States will face Poland in the Grand Finals.
+
+Australia has been eliminated in 3rd place.
+
+***
+
+[Lobby](https://osu.ppy.sh/community/matches/120062857) | [Bracket](https://challonge.com/OWC2025) | [A Stream](https://www.twitch.tv/osulive) | [B Stream](https://www.twitch.tv/osulive_2) | [Info Page](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025) | [Sheet](https://apps.leoflt.com/s/owc2025-info)
+
+***
+**Match Costs (osuplus [?](https://i.imgur.com/BJPOKDY.png)):**
+
+| ***United States*** |#2| ***Australia*** |#3|
+|:-:|:-:|:-:|:-:|
+| [rektygon](https://osu.ppy.sh/users/7813296) | 1.815 | [mrekk](https://osu.ppy.sh/users/7562902) | 2.315 |
+| [decaten](https://osu.ppy.sh/users/5645231) | 1.762 | [ASecretBox](https://osu.ppy.sh/users/7341183) | 1.605 |
+| [Pezz](https://osu.ppy.sh/users/10651106) | 1.590 | [aknzx](https://osu.ppy.sh/users/9938943) | 1.485 |
+| [tekkito](https://osu.ppy.sh/users/7075211) | 1.523 | [cloppit](https://osu.ppy.sh/users/19851850) | 1.359 |
+| [WindowLife](https://osu.ppy.sh/users/4108547) | 1.518 | [palr](https://osu.ppy.sh/users/15429006) | 1.034 |
+| [BoshyMan741](https://osu.ppy.sh/users/4830687) | 1.411 | [SUPERI0R](https://osu.ppy.sh/users/17235399) | 0.695 |
+| [EthantrixV3](https://osu.ppy.sh/users/10634348) | 1.044 | [big snag](https://osu.ppy.sh/users/8181420) | 0.312 |
+| [&#91;C&#93;](https://osu.ppy.sh/users/7959945) | 0.480 | [Xaver](https://osu.ppy.sh/users/7410343) | - |
+***
+**Bans:**
+
+*United States*
+
+DT3 | [DJ SHARPNEL - Pacific girls &#91;jumpstream&#93;](https://osu.ppy.sh/beatmaps/5426129)
+
+FM3 | [Inferi - The Abhorrent Art &#91;Massacre&#93;](https://osu.ppy.sh/beatmaps/5426165)
+
+*Australia*
+
+NM5 | [Kikuo - Mono wo Parapara Kowasu &#91;Amalgamate&#93;](https://osu.ppy.sh/beatmaps/5426154)
+
+HD2 | [Kenshi Yonezu - Shitodo Seiten Daimeiwaku &#91;Helter-skelter&#93;](https://osu.ppy.sh/beatmaps/5425751)
+
+***
+###Map 1 (picked by Australia)
+***
+
+####NM1 | [Falcom Sound Team jdk - Azure Destiny &#91;Grand Reset&#93;](https://osu.ppy.sh/beatmaps/5425903)
+
+4:35 — 280 BPM — 8.3★ — 2,357x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[mrekk](https://osu.ppy.sh/users/7562902) | 522,839 | 98.84% | 1,224x | 4 |
+[cloppit](https://osu.ppy.sh/users/19851850) | 436,518 | 98.79% | 767x | 7 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 434,256 | 98.32% | 816x | 7 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 401,688 | 98.78% | 631x | 17 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[decaten](https://osu.ppy.sh/users/5645231) | 514,988 | 99.46% | 1,165x | 4 |
+[rektygon](https://osu.ppy.sh/users/7813296) | 437,022 | 98.71% | 872x | 14 |
+[tekkito](https://osu.ppy.sh/users/7075211) | 417,210 | 98.32% | 691x | 12 |
+[Pezz](https://osu.ppy.sh/users/10651106) | 408,347 | 98.50% | 813x | 12 |
+
+United States 1,777,567 - **1,795,301 Australia**
+
+Australia wins by 17,734
+
+United States 0 - (1) Australia
+***
+###Map 2 (picked by United States)
+***
+
+####HD3 | [BlackY - PANAGIA &#91;Effulgence (OWC Ver.)&#93;](https://osu.ppy.sh/beatmaps/5426182)
+
+2:32 — 185 BPM — 8.4★ — 1,483x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[mrekk](https://osu.ppy.sh/users/7562902) | 763,565 | 96.63% | 1,257x | 6 |
+[cloppit](https://osu.ppy.sh/users/19851850) | 325,951 | 96.07% | 326x | 19 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 270,361 | 93.57% | 321x | 28 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 268,071 | 93.95% | 354x | 34 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[tekkito](https://osu.ppy.sh/users/7075211) | 524,114 | 98.32% | 681x | 5 |
+[decaten](https://osu.ppy.sh/users/5645231) | 424,400 | 96.17% | 634x | 14 |
+[EthantrixV3](https://osu.ppy.sh/users/10634348) | 370,204 | 96.49% | 423x | 13 |
+[&#91;C&#93;](https://osu.ppy.sh/users/7959945) | 291,379 | 95.58% | 242x | 25 |
+
+United States 1,610,097 - **1,627,948 Australia**
+
+Australia wins by 17,851
+
+United States 0 - (2) Australia
+***
+###Map 3 (picked by Australia)
+***
+
+####DT4 | [Aiobahn - resonance feat. KOCHO (KARUT Remix) &#91;dual tone&#93;](https://osu.ppy.sh/beatmaps/5426228)
+
+3:56 — 225 BPM — 8.3★ — 2,860x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[mrekk](https://osu.ppy.sh/users/7562902) | 759,825 | 98.20% | 1,733x | 0 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 420,021 | 96.69% | 728x | 15 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 387,277 | 96.07% | 587x | 12 |
+[cloppit](https://osu.ppy.sh/users/19851850) | 304,053 | 94.97% | 485x | 18 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[rektygon](https://osu.ppy.sh/users/7813296) | 508,715 | 97.45% | 925x | 1 |
+[Pezz](https://osu.ppy.sh/users/10651106) | 479,211 | 96.39% | 911x | 11 |
+[decaten](https://osu.ppy.sh/users/5645231) | 430,141 | 96.67% | 996x | 13 |
+[WindowLife](https://osu.ppy.sh/users/4108547) | 408,125 | 95.81% | 919x | 9 |
+
+United States 1,826,192 - **1,871,176 Australia**
+
+Australia wins by 44,984
+
+United States 0 - (3) Australia
+***
+###Map 4 (picked by United States)
+***
+
+####HR3 | [tuki. - Guilty &#91;Punishment&#93;](https://osu.ppy.sh/beatmaps/5426197)
+
+3:28 — 190 BPM — 8.2★ — 1,986x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[Pezz](https://osu.ppy.sh/users/10651106) | 432,203 | 98.05% | 651x | 6 |
+[rektygon](https://osu.ppy.sh/users/7813296) | 431,851 | 97.99% | 469x | 3 |
+[decaten](https://osu.ppy.sh/users/5645231) | 402,425 | 97.83% | 582x | 8 |
+[WindowLife](https://osu.ppy.sh/users/4108547) | 383,063 | 97.33% | 454x | 11 |
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[mrekk](https://osu.ppy.sh/users/7562902) | 518,086 | 97.81% | 1,026x | 4 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 401,331 | 97.59% | 467x | 5 |
+[cloppit](https://osu.ppy.sh/users/19851850) | 333,743 | 96.69% | 504x | 10 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 297,221 | 95.74% | 357x | 18 |
+
+**United States 1,649,542** - 1,550,381 Australia
+
+United States wins by 99,161
+
+United States (1) - 3 Australia
+***
+###Map 5 (picked by Australia)
+***
+
+####DT1 | [fhana - Wonder Stella &#91;Marvel&#93;](https://osu.ppy.sh/beatmaps/794750)
+
+3:21 — 290 BPM — 9.1★ — 1,750x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[mrekk](https://osu.ppy.sh/users/7562902) | 676,634 | 98.97% | 930x | 2 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 586,229 | 94.89% | 1,135x | 18 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 499,643 | 96.60% | 757x | 25 |
+[cloppit](https://osu.ppy.sh/users/19851850) | 455,351 | 98.16% | 527x | 12 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[Pezz](https://osu.ppy.sh/users/10651106) | 474,571 | 98.08% | 482x | 8 |
+[tekkito](https://osu.ppy.sh/users/7075211) | 471,472 | 97.57% | 510x | 18 |
+[decaten](https://osu.ppy.sh/users/5645231) | 469,423 | 98.40% | 430x | 9 |
+[rektygon](https://osu.ppy.sh/users/7813296) | 433,905 | 97.51% | 601x | 11 |
+
+United States 1,849,371 - **2,217,857 Australia**
+
+Australia wins by 368,486
+
+United States 1 - (4) Australia
+***
+###Map 6 (picked by United States)
+***
+
+####HR2 | [METAROOM - EMBRYOGLYPH &#91;MYSTERMINAL PYTHESIS&#93;](https://osu.ppy.sh/beatmaps/5426187)
+
+3:27 — 176 BPM — 7.7★ — 1,760x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[rektygon](https://osu.ppy.sh/users/7813296) | 457,271 | 96.33% | 728x | 2 |
+[decaten](https://osu.ppy.sh/users/5645231) | 433,468 | 96.96% | 750x | 9 |
+[Pezz](https://osu.ppy.sh/users/10651106) | 403,943 | 95.42% | 623x | 2 |
+[BoshyMan741](https://osu.ppy.sh/users/4830687) | 361,405 | 95.06% | 550x | 6 |
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[mrekk](https://osu.ppy.sh/users/7562902) | 485,416 | 97.62% | 827x | 1 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 413,765 | 94.91% | 704x | 5 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 328,743 | 94.53% | 593x | 15 |
+[big snag](https://osu.ppy.sh/users/8181420) | 179,153 | 90.24% | 316x | 22 |
+
+**United States 1,656,087** - 1,407,077 Australia
+
+United States wins by 249,010
+
+United States (2) - 4 Australia
+***
+###Map 7 (picked by Australia)
+***
+
+####HD1 | [youman - R.I.P. &#91;M.E.M.O.R.I.A.M.&#93;](https://osu.ppy.sh/beatmaps/5426162)
+
+3:23 — 270 BPM — 7.8★ — 1,710x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[mrekk](https://osu.ppy.sh/users/7562902) | 719,589 | 99.27% | 1,209x | 2 |
+[palr](https://osu.ppy.sh/users/15429006) | 504,336 | 96.66% | 1,036x | 13 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 474,268 | 98.15% | 662x | 4 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 404,999 | 97.58% | 572x | 9 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[decaten](https://osu.ppy.sh/users/5645231) | 562,956 | 99.12% | 980x | 6 |
+[tekkito](https://osu.ppy.sh/users/7075211) | 497,696 | 99.19% | 593x | 3 |
+[rektygon](https://osu.ppy.sh/users/7813296) | 447,566 | 97.71% | 745x | 9 |
+[EthantrixV3](https://osu.ppy.sh/users/10634348) | 435,881 | 97.31% | 674x | 4 |
+
+United States 1,944,099 - **2,103,192 Australia**
+
+Australia wins by 159,093
+
+United States 2 - (5) Australia
+***
+###Map 8 (picked by United States)
+***
+
+####FM2 | [beatMARIO - Night of Knights &#91;Perfect Maid&#93;](https://osu.ppy.sh/beatmaps/5425907)
+
+2:50 — 180 BPM — 7.2★ — 1,277x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[BoshyMan741](https://osu.ppy.sh/users/4830687) | 604,350 | 99.14% | 769x | 2 |
+[rektygon](https://osu.ppy.sh/users/7813296) +HR | 548,089 | 98.82% | 624x | 7 |
+[decaten](https://osu.ppy.sh/users/5645231) +HR | 384,665 | 97.97% | 244x | 19 |
+[EthantrixV3](https://osu.ppy.sh/users/10634348) +HD | 335,696 | 96.99% | 263x | 14 |
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[mrekk](https://osu.ppy.sh/users/7562902) | 529,276 | 98.87% | 666x | 4 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 391,281 | 98.45% | 368x | 10 |
+[aknzx](https://osu.ppy.sh/users/9938943) +HR | 235,652 | 93.82% | 174x | 45 |
+[palr](https://osu.ppy.sh/users/15429006) +HD | 195,498 | 92.66% | 134x | 50 |
+
+**United States 1,872,800** - 1,351,707 Australia
+
+United States wins by 521,093
+
+United States (3) - 5 Australia
+***
+###Map 9 (picked by Australia)
+***
+
+####NM2 | [STARKILL - Be Dead or Die &#91;404 EDEN&#93;](https://osu.ppy.sh/beatmaps/5426127)
+
+3:14 — 210 BPM — 8.2★ — 2,075x
+
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[mrekk](https://osu.ppy.sh/users/7562902) | 979,393 | 99.39% | 2,073x | 0 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 523,152 | 99.22% | 781x | 2 |
+[cloppit](https://osu.ppy.sh/users/19851850) | 322,802 | 94.93% | 658x | 52 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 316,530 | 96.01% | 584x | 33 |
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[rektygon](https://osu.ppy.sh/users/7813296) | 466,489 | 96.60% | 1,048x | 32 |
+[WindowLife](https://osu.ppy.sh/users/4108547) | 459,333 | 95.05% | 1,186x | 37 |
+[decaten](https://osu.ppy.sh/users/5645231) | 445,152 | 96.36% | 1,047x | 29 |
+[Pezz](https://osu.ppy.sh/users/10651106) | 412,039 | 96.21% | 769x | 33 |
+
+United States 1,783,013 - **2,141,877 Australia**
+
+Australia wins by 358,864
+
+United States 3 - (6) Australia
+***
+###Map 10 (picked by United States)
+***
+
+####FM1 | [DJ SHARPNEL - Mmmmmmm &#91;Chaos Collab!!&#93;](https://osu.ppy.sh/beatmaps/5426056)
+
+4:14 — 193 BPM — 7.7★ — 2,587x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[BoshyMan741](https://osu.ppy.sh/users/4830687) | 401,583 | 98.39% | 919x | 5 |
+[decaten](https://osu.ppy.sh/users/5645231) +HR | 391,330 | 98.55% | 617x | 9 |
+[rektygon](https://osu.ppy.sh/users/7813296) +HR | 374,014 | 98.04% | 653x | 10 |
+[tekkito](https://osu.ppy.sh/users/7075211) +HD | 323,743 | 96.77% | 617x | 24 |
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[mrekk](https://osu.ppy.sh/users/7562902) | 453,686 | 98.79% | 878x | 5 |
+[palr](https://osu.ppy.sh/users/15429006) +HD | 409,362 | 97.89% | 857x | 10 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 324,758 | 97.33% | 485x | 7 |
+[aknzx](https://osu.ppy.sh/users/9938943) +HR | 287,620 | 96.18% | 439x | 25 |
+
+**United States 1,490,670** - 1,475,426 Australia
+
+United States wins by 15,244
+
+United States (4) - 6 Australia
+***
+###Map 11 (picked by Australia)
+***
+
+####DT2 | [airportexpress feat.Itsuneko - BIRTH &#91;Insane&#93;](https://osu.ppy.sh/beatmaps/422762)
+
+2:13 — 270 BPM — 9.1★ — 1,389x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[WindowLife](https://osu.ppy.sh/users/4108547) | 578,134 | 95.49% | 833x | 3 |
+[rektygon](https://osu.ppy.sh/users/7813296) | 504,224 | 94.25% | 766x | 10 |
+[Pezz](https://osu.ppy.sh/users/10651106) | 405,683 | 94.90% | 463x | 5 |
+[tekkito](https://osu.ppy.sh/users/7075211) | 275,515 | 90.97% | 321x | 21 |
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[aknzx](https://osu.ppy.sh/users/9938943) | 493,743 | 97.56% | 405x | 5 |
+[SUPERI0R](https://osu.ppy.sh/users/17235399) | 441,904 | 96.90% | 397x | 10 |
+[mrekk](https://osu.ppy.sh/users/7562902) | 348,261 | 90.83% | 464x | 18 |
+[cloppit](https://osu.ppy.sh/users/19851850) | 343,255 | 91.76% | 472x | 14 |
+
+**United States 1,763,556** - 1,627,163 Australia
+
+United States wins by 136,393
+
+United States (5) - 6 Australia
+***
+###Map 12 (picked by United States)
+***
+
+####NM3 | [Cansol - Out of Place &#91;Stray&#93;](https://osu.ppy.sh/beatmaps/5426137)
+
+4:12 — 180 BPM — 8.3★ — 2,432x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[decaten](https://osu.ppy.sh/users/5645231) | 388,146 | 95.88% | 1,194x | 24 |
+[rektygon](https://osu.ppy.sh/users/7813296) | 338,599 | 94.57% | 849x | 24 |
+[tekkito](https://osu.ppy.sh/users/7075211) | 313,845 | 96.31% | 613x | 23 |
+[Pezz](https://osu.ppy.sh/users/10651106) | 289,739 | 95.85% | 573x | 19 |
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[mrekk](https://osu.ppy.sh/users/7562902) | 368,948 | 96.13% | 804x | 16 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 326,265 | 95.81% | 867x | 22 |
+[aknzx](https://osu.ppy.sh/users/9938943) | 255,092 | 93.05% | 748x | 37 |
+[cloppit](https://osu.ppy.sh/users/19851850) | 243,169 | 94.65% | 426x | 34 |
+
+**United States 1,330,329** - 1,193,474 Australia
+
+United States wins by 136,855
+
+United States (6) - 6 Australia
+***
+###Map 13 (Tiebreaker)
+***
+
+####TB | [Imperial Circus Dead Decadence - Yuuaku no Inori - Anima immortalis est. - &#91;Melodia Caelestis Immortalis&#93;](https://osu.ppy.sh/beatmaps/5426254)
+
+7:25 — 270 BPM — 9.5★ — 4,415x
+
+| ***United States*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[WindowLife](https://osu.ppy.sh/users/4108547) | 299,243 | 96.92% | 636x | 33 |
+[rektygon](https://osu.ppy.sh/users/7813296) | 264,306 | 95.27% | 767x | 33 |
+[Pezz](https://osu.ppy.sh/users/10651106) | 257,464 | 93.94% | 1,014x | 37 |
+[tekkito](https://osu.ppy.sh/users/7075211) +HD | 245,041 | 94.36% | 570x | 43 |
+| ***Australia*** | **Score** | **Accuracy** | **Combo** | **Miss** |
+[aknzx](https://osu.ppy.sh/users/9938943) | 288,101 | 95.68% | 746x | 10 |
+[cloppit](https://osu.ppy.sh/users/19851850) | 272,599 | 96.05% | 549x | 31 |
+[mrekk](https://osu.ppy.sh/users/7562902) | 209,742 | 91.67% | 979x | 21 |
+[ASecretBox](https://osu.ppy.sh/users/7341183) | 208,148 | 92.38% | 831x | 40 |
+
+**United States 1,066,054** - 978,590 Australia
+
+United States wins by 87,464
+
+**United States (7)** - 6 Australia
